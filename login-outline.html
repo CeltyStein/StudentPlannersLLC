@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Auth & Cloud Sync Outline</title>
+  <style>
+    body{font-family:Arial, sans-serif;max-width:900px;margin:2rem auto;padding:1rem;line-height:1.5;background:#f8fafc;color:#0f172a;}
+    h1,h2{color:#0f172a;margin-bottom:.25rem;}
+    code{background:#e2e8f0;padding:2px 4px;border-radius:4px;font-size:12px;}
+    .card{background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:1rem;margin:1rem 0;box-shadow:0 8px 18px rgba(0,0,0,.05);}
+    ul{margin-top:.25rem;}
+  </style>
+</head>
+<body>
+  <h1>Login + Cloud Sync (Firebase + OAuth) Outline</h1>
+
+  <div class="card">
+    <h2>Goals</h2>
+    <ul>
+      <li>Google / Microsoft / Apple sign-in (no usernames/passwords).</li>
+      <li>Persist planner data in Firebase (Auth + Firestore).</li>
+      <li>Keep existing localStorage fallback; sync on login.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Required Firebase pieces</h2>
+    <ul>
+      <li>Enable providers: Google, Microsoft, Apple in Firebase Console.</li>
+      <li>Create web app → copy config (apiKey, authDomain, etc.).</li>
+      <li>Firestore: `users/{uid}/planner` doc for merged data.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>UI sketch</h2>
+    <ul>
+      <li>Header: “Sign in” button + avatar/status in place of storage note.</li>
+      <li>Modal with buttons: “Continue with Google”, “Continue with Microsoft”, “Continue with Apple”.</li>
+      <li>Status chip: “Synced to cloud” / “Offline (local only)”.</li>
+      <li>Manual controls: “Sync now”, “Sign out”, “Delete cloud copy”.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Data flow</h2>
+    <ol>
+      <li>User clicks provider → Firebase Auth popup → get UID/token.</li>
+      <li>On login: fetch Firestore doc (`users/{uid}/planner`).</li>
+      <li>Merge strategy: if cloud is newer → load; else upload local; log timestamp.</li>
+      <li>Listen for local changes (save) → debounce → push to Firestore.</li>
+      <li>Sign out → keep localStorage but mark “offline”.</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>Code scaffold (add to your main app)</h2>
+<pre><code>// 1) Include Firebase SDKs (auth + firestore) via script tags or bundler
+// &lt;script src="https://www.gstatic.com/firebasejs/10.x.x/firebase-app.js"&gt;&lt;/script&gt;
+// &lt;script src="https://www.gstatic.com/firebasejs/10.x.x/firebase-auth.js"&gt;&lt;/script&gt;
+// &lt;script src="https://www.gstatic.com/firebasejs/10.x.x/firebase-firestore.js"&gt;&lt;/script&gt;
+
+// 2) Init firebase (replace placeholders)
+const firebaseConfig = {
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_APP.firebaseapp.com",
+  projectId: "YOUR_PROJECT_ID",
+};
+firebase.initializeApp(firebaseConfig);
+const auth = firebase.auth();
+const db = firebase.firestore();
+
+// 3) Providers
+const googleProvider = new firebase.auth.GoogleAuthProvider();
+const microsoftProvider = new firebase.auth.OAuthProvider('microsoft.com');
+const appleProvider = new firebase.auth.OAuthProvider('apple.com');
+
+// 4) Sign-in helpers
+function signInWith(provider){
+  return auth.signInWithPopup(provider);
+}
+
+// 5) Cloud doc helpers
+const docRefFor = (uid)=> db.collection('users').doc(uid).collection('planner').doc('data');
+
+async function loadCloud(uid){
+  const snap = await docRefFor(uid).get();
+  return snap.exists ? snap.data() : null;
+}
+
+async function saveCloud(uid, payload){
+  await docRefFor(uid).set({ payload, updatedAt: Date.now() }, { merge:true });
+}
+
+// 6) Merge logic (pseudo)
+async function syncPlanner(localData){
+  const user = auth.currentUser;
+  if(!user) return;
+  const cloud = await loadCloud(user.uid);
+  const cloudTime = cloud?.updatedAt || 0;
+  const localTime = Number(localStorage.getItem('planner-updatedAt')||0);
+  if(cloud && cloudTime > localTime){
+    // load cloud to app + localStorage
+  } else {
+    // push localData to cloud
+    await saveCloud(user.uid, localData);
+  }
+}
+
+// 7) Auth state listener
+auth.onAuthStateChanged(async (user)=>{
+  if(user){
+    await syncPlanner(getLocalPlannerSnapshot());
+    updateUI("online", user);
+  } else {
+    updateUI("offline", null);
+  }
+});
+</code></pre>
+  </div>
+
+  <div class="card">
+    <h2>Next steps</h2>
+    <ul>
+      <li>Drop this scaffold into your main app, wire real data getters/setters.</li>
+      <li>Add the Sign-in modal with provider buttons; connect to `signInWith(...)`.</li>
+      <li>Store `updatedAt` on every local save to support merge decisions.</li>
+      <li>Optionally add “sync now” button to force push/pull.</li>
+    </ul>
+  </div>
+</body>
+</html>
