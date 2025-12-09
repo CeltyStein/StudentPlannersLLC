@@ -1,0 +1,4475 @@
+const RAW_ICS = `BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Santiago Stein Calendar (Canvas)
+X-WR-CALDESC:Calendar events for the user\, Santiago Stein
+BEGIN:VEVENT
+DTSTAMP:20251022T214800Z
+UID:event-assignment-727858
+DTSTART;VALUE=DATE;VALUE=DATE:20251024
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 8-1: Analyze Malicious Activity [25/FA CIS
+ -616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727858
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251022T214800Z
+UID:event-assignment-727859
+DTSTART;VALUE=DATE;VALUE=DATE:20251024
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 8-2: Securing Computing Resources [25/FA C
+ IS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727859
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251022T214800Z
+UID:event-assignment-727860
+DTSTART;VALUE=DATE;VALUE=DATE:20251024
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 8-3: Identifying Security Vulnerabilities 
+ [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727860
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251022T214800Z
+UID:event-assignment-727861
+DTSTART;VALUE=DATE;VALUE=DATE:20251024
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 8-4: Monitoring Computing Resources [25/FA
+  CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727861
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251022T214800Z
+UID:event-assignment-727872
+DTSTART;VALUE=DATE;VALUE=DATE:20251024
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Module 08 Infrastructure Threats and Security Monitoring [25/
+ FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727872
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251022T214800Z
+UID:event-assignment-727906
+DTSTART;VALUE=DATE;VALUE=DATE:20251024
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 8-1: Email Threats and Defenses [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727906
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251022T214800Z
+UID:event-assignment-727907
+DTSTART;VALUE=DATE;VALUE=DATE:20251024
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 8-2: ARP Poisoning [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727907
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251020T060000Z
+UID:event-assignment-737143
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab 10-1: Virtual Machine Forensics\, Live Acquisitions\, and Netwo
+ rk Forensics [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=10&year=2025#assignment_737143
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T025400Z
+UID:event-assignment-736862
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:For your discussion post\, please complete either the "Linux fo
+ r Life" or "Reflection" activity found in the reading section of the modul
+ e.\n\nYour initial post is due on Friday by 11:59 PM\, and your three repl
+ ies are due by Sunday at 11:59 PM. Please review the rubric in the assignm
+ ent for details on grading requirements.
+SEQUENCE:0
+SUMMARY:Linux Chapter Three Discussion Post [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=10&year=2025#assignment_736862
+X-ALT-DESC;FMTTYPE=text/html:<p>For your discussion post\, please complete 
+ either the "Linux for Life" or "Reflection" activity found in the reading 
+ section of the module.</p>\n<p>Your initial post is due on Friday by 11:59
+  PM\, and your three replies are due by Sunday at 11:59 PM. Please review 
+ the rubric in the assignment for details on grading requirements.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251020T050000Z
+UID:event-assignment-730824
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 3-1: Editing Files in Linux [25/FA CSC-121
+ -OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=10&year=2025#assignment_730824
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T230400Z
+UID:event-assignment-727862
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 9-1: Mitigation Techniques [25/FA CIS-616-
+ OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727862
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T230400Z
+UID:event-assignment-727863
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 9-2: Securing Enterprise Infrastructures [
+ 25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727863
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T230400Z
+UID:event-assignment-727864
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 9-3: Enhancing Enterprise Security [25/FA 
+ CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727864
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251028T165100Z
+UID:event-assignment-737130
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:Class\,\n\nBe sure to read Module 10 Chapter before working thr
+ ough the questions below:\n\n* What is the difference between a type 1 and
+  type 2 hypervisor?\n\n* In your opinion\, why are virtual machines import
+ ant when conducting forensic analysis?  \n\n* List some benefits after p
+ roviding your opinion\n\n* Based on the reading\, describe in your own wor
+ ds a few ways you can secure a network from cyber-attacks.\n\nYour main po
+ st needs to contain a minimum of 2 complete paragraphs\, which is due Frid
+ ay by midnight\, and your three reply minimum is due Sunday by midnight
+SEQUENCE:0
+SUMMARY:Module 10 Discussion [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=10&year=2025#assignment_737130
+X-ALT-DESC;FMTTYPE=text/html:<p>Class\,</p>\n<p>Be sure to read Module 10 C
+ hapter before working through the questions below:</p>\n<ul>\n<li>What is 
+ the difference between a type 1 and type 2 hypervisor?</li>\n<li>In your o
+ pinion\, why are virtual machines important when conducting forensic analy
+ sis?&nbsp\;&nbsp\;\n<ul>\n<li>List some benefits after providing your opin
+ ion</li>\n</ul>\n</li>\n<li>Based on the reading\, describe in your own wo
+ rds a few ways you can secure a network from cyber-attacks.</li>\n</ul>\n<
+ p>Your main post needs to contain a minimum of 2 complete paragraphs\, whi
+ ch is due Friday by midnight\, and your three reply minimum is due Sunday 
+ by midnight</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251020T060000Z
+UID:event-assignment-737156
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Module 10 Quiz [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=10&year=2025#assignment_737156
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251020T050000Z
+UID:event-assignment-730848
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Chapter 03 Exploring Linux Filesystems [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=10&year=2025#assignment_730848
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T230400Z
+UID:event-assignment-727873
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Module 09 Infrastructure Security [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727873
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251020T050000Z
+UID:event-assignment-730870
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 3-1: Navigate the Linux Filesystem [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=10&year=2025#assignment_730870
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T230400Z
+UID:event-assignment-727908
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 9-1: Using GlassWire Firewall [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727908
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T230400Z
+UID:event-assignment-727909
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 9-2: Using a VPN [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727909
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251018T164800Z
+UID:event-assignment-727224
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:Critical Thinking Exercise: Automated Clinicians\n\nIt is the y
+ ear 2024\, and robots are being introduced to handle the screening of pati
+ ents at physicians' offices across the United States. The robots are human
+  looking and are able to speak and understand English and Spanish. The rob
+ ots are capable of performing basic nursing tasks\, such as taking a patie
+ nt's vital signs. Upon arriving at a physician's office\, a patient would 
+ meet with the robot to determine the patient's current conditions and symp
+ toms and to review pertinent medical history from the patient's EHR. The r
+ obot would form a preliminary diagnosis and suggest a course of action\, w
+ hich could include additional tests\, medication\, referral to a specialis
+ t\, or hospitalization. A human physician would then review the preliminar
+ y diagnosis and suggested course of action. If necessary\, the physician w
+ ould meet with the patient to confirm the robot's diagnosis and order any 
+ additional work or medications that might be necessary. The robotic physic
+ ian assistant can be made available 24 × 7 and can even be stationed at c
+ onvenient locations\, such as shopping malls\, schools\, places of work\, 
+ and college campuses. The goal of using of robotic physician assistants is
+  to increase the number of patients that could be seen by a single physici
+ an\, while also cutting patient wait time.\n\nYou are on the administrativ
+ e staff of a large physician group that is among the first to introduce ro
+ botic physician assistants. What sort of testing is necessary before the a
+ utomated clinician can be certified as fit for use? What start-up issues m
+ ight be expected? What would you do to make the use of a robotic physician
+  assistant more acceptable to patients and to ensure patient care does not
+  suffer?\n\nYour response needs to be a minimum of 2 complete paragraphs a
+ nd must be submitted via microsoft word and is due Sunday by midnight.
+SEQUENCE:0
+SUMMARY:Week 10 Critical Thinking Assignment [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=10&year=2025#assignment_727224
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Critical Thinking Exercise: Automat
+ ed Clinicians</strong></p>\n<p>It is the year 2024\, and robots are being 
+ introduced to handle the screening of patients at physicians' offices acro
+ ss the United States. The robots are human looking and are able to speak a
+ nd understand English and Spanish. The robots are capable of performing ba
+ sic nursing tasks\, such as taking a patient's vital signs. Upon arriving 
+ at a physician's office\, a patient would meet with the robot to determine
+  the patient's current conditions and symptoms and to review pertinent med
+ ical history from the patient's EHR. The robot would form a preliminary di
+ agnosis and suggest a course of action\, which could include additional te
+ sts\, medication\, referral to a specialist\, or hospitalization. A human 
+ physician would then review the preliminary diagnosis and suggested course
+  of action. If necessary\, the physician would meet with the patient to co
+ nfirm the robot's diagnosis and order any additional work or medications t
+ hat might be necessary. The robotic physician assistant can be made availa
+ ble 24 × 7 and can even be stationed at convenient locations\, such as sh
+ opping malls\, schools\, places of work\, and college campuses. The goal o
+ f using of robotic physician assistants is to increase the number of patie
+ nts that could be seen by a single physician\, while also cutting patient 
+ wait time.</p>\n<p>You are on the administrative staff of a large physicia
+ n group that is among the first to introduce robotic physician assistants.
+  What sort of testing is necessary before the automated clinician can be c
+ ertified as fit for use? What start-up issues might be expected? What woul
+ d you do to make the use of a robotic physician assistant more acceptable 
+ to patients and to ensure patient care does not suffer?</p>\n<p>Your respo
+ nse needs to be a minimum of 2 complete paragraphs and must be submitted v
+ ia microsoft word and is due Sunday by midnight.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251018T164800Z
+UID:event-assignment-727217
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:Please be sure to read through Chapter 8 before answering the b
+ elow questions in your own words:\n\n1. Your own original post that answer
+ s the question below: (Due Friday midnight) 5pts\n\n* What is Artificial 
+ Intelligence?\n\n* What is Machine learning?\n\n* Do you see the continuin
+ g use of Artificial Intelligence to be a positive thing?  Why or Why Not?
+ \n\n2. Reply to 2 classmates' posts. (Due Sunday midnight) 5pts\n\n \n\n
+ Rubric\n\nTo receive full credit\, your post and reply must be...\n\n* At 
+ least three sentences in length (two paragraphs of at least 3 sentences ea
+ ch for the initial post)\n\n* Written in complete\, grammatically correct 
+ sentences\n\n* Free from spelling errors\n\n* An intelligent response
+SEQUENCE:0
+SUMMARY:Week 10 Discussion [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=10&year=2025#assignment_727217
+X-ALT-DESC;FMTTYPE=text/html:<p>Please be sure to read through Chapter 8 be
+ fore answering the below questions in your own words:</p><p><span>1. Your 
+ own original post that answers the question below: (Due Friday midnight)&n
+ bsp\;</span><strong>5pts</strong></p><ul><li>What is Artificial Intelligen
+ ce?</li><li>What is Machine learning?</li><li>Do you see the continuing us
+ e of Artificial Intelligence to be a positive thing?&nbsp\; Why or Why Not
+ ?</li></ul><p><span>2. Reply to 2 classmates' posts. (Due Sunday midnight)
+ </span><span>&nbsp\;</span><strong>5pts</strong></p><p>&nbsp\;</p><p><em><
+ span>Rubric</span></em></p><p>To receive full credit\, your post and reply
+  must be...</p><ul><li>At least three sentences in length (two paragraphs 
+ of at least 3 sentences each for the initial post)</li><li>Written in comp
+ lete\, grammatically correct sentences</li><li>Free from spelling errors</
+ li><li>An intelligent response</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251018T164800Z
+UID:event-assignment-727199
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:please review chapter 8 reading before taking the quiz\, you ge
+ t 2 attempts
+SEQUENCE:0
+SUMMARY:Week 10 Quiz [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=10&year=2025#assignment_727199
+X-ALT-DESC;FMTTYPE=text/html:<p>please review chapter 8 reading before taki
+ ng the quiz\, you get 2 attempts</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T050000Z
+UID:event-assignment-777818
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:7-1: Configuring Networking Settings on a Windows Device [25/FA NET
+ -790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=10&year=2025#assignment_777818
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T050000Z
+UID:event-assignment-777815
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:7-1: Investigating Network Connection Settings [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=10&year=2025#assignment_777815
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T050000Z
+UID:event-assignment-777816
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:7-2: Clearing DNS Cache [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=10&year=2025#assignment_777816
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T050000Z
+UID:event-assignment-777817
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:7-2: Identify TCP IP Protocols and Port Numbers [25/FA NET-790-OL01
+ ]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=10&year=2025#assignment_777817
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251030T200200Z
+UID:event-assignment-765944
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:The Specialized Practical Role of the RSA Cryptosystem\n-------
+ -----------------------------------------------\n\nChapter 7 introduces th
+ e RSA cryptosystem\, stating that it was "for a long time the most popular
+  asymmetric cryptographic scheme". However\, Section 7.1 clarifies that in
+  practice\, RSA is "most often used for: encryption of small pieces of dat
+ a\, especially for key transport\, [and] digital signatures". Drawing on i
+ nformation from Sections 7.1 and 7.2\, discuss the implications of RSA's s
+ pecialized practical uses.\n\nConsider the following in your response:\n\n
+ * Based on Section 7.2\, the RSA encryption (y = xe mod n) and decryption 
+ (x = yd mod n) operations involve "very long numbers\, usually 2048 bits o
+ r more". How might the computational demands of operating with such large 
+ numbers contribute to RSA being primarily used for "small pieces of data" 
+ and "key transport" rather than for general bulk data encryption?\n\n* Giv
+ en that RSA is also widely used for "digital signatures"\, how does this a
+ pplication differ in its data processing needs compared to encrypting arbi
+ trary messages\, and why might RSA be particularly well-suited for digital
+  signing?\n\nYour initial post should be at least two paragraphs long\, wi
+ th each containing four sentences. This is due by Friday at 11:59 PM. A mi
+ nimum of three replies is due Sunday evening by 11:59 PM.\n\n \n\nWorks C
+ ited:\n\nPaar\, C.\, Pelzl\, J.\, & Güneysu\, T. (2024). Understanding cr
+ yptography: From Established Symmetric and Asymmetric Ciphers to Post-Quan
+ tum Algorithms. Springer.
+SEQUENCE:0
+SUMMARY:Chapter 7 Discussion [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=10&year=2025#assignment_765944
+X-ALT-DESC;FMTTYPE=text/html:<div class="paragraph normal ng-star-inserted"
+  data-start-index="224">\n<div class="paragraph normal ng-star-inserted" d
+ ata-start-index="310">\n<h3 class="paragraph heading3 ng-star-inserted" da
+ ta-start-index="242"><span class="ng-star-inserted" data-start-index="242"
+ >The Specialized Practical Role of the RSA Cryptosystem</span></h3>\n<div 
+ class="paragraph normal ng-star-inserted" data-start-index="335"><span cla
+ ss="ng-star-inserted" data-start-index="342">Chapter 7 introduces the RSA 
+ cryptosystem\, stating that it was "for a long time the most popular asymm
+ etric cryptographic scheme"</span><span class="ng-star-inserted" data-star
+ t-index="472">. However\, Section 7.1 clarifies that in practice\, RSA is 
+ "most often used for: encryption of small pieces of data\, especially for 
+ key transport\, [and] digital signatures"</span><span class="ng-star-inser
+ ted" data-start-index="643">. </span><span class="ng-star-inserted" data-s
+ tart-index="655">Drawing on information from Sections 7.1 and 7.2\, discus
+ s the implications of RSA's specialized practical uses.</span></div>\n<div
+  class="paragraph normal ng-star-inserted" data-start-index="766"><span cl
+ ass="ng-star-inserted" data-start-index="766">Consider the following in yo
+ ur response:</span></div>\n<ul style="list-style-type: disc\;">\n<li class
+ ="paragraph normal ng-star-inserted" data-start-index="806"><span class="n
+ g-star-inserted" data-start-index="806">Based on Section 7.2\, the RSA enc
+ ryption (</span><code class="code ng-star-inserted" data-start-index="848"
+ >y = xe mod n</code><span class="ng-star-inserted" data-start-index="860">
+ ) and decryption (</span><code class="code ng-star-inserted" data-start-in
+ dex="878">x = yd mod n</code><span class="ng-star-inserted" data-start-ind
+ ex="890">) operations involve "very long numbers\, usually 2048 bits or mo
+ re"</span><span class="ng-star-inserted" data-start-index="957">. How migh
+ t the </span><strong class="ng-star-inserted" data-start-index="973">compu
+ tational demands</strong><span class="ng-star-inserted" data-start-index="
+ 994"> of operating with such large numbers contribute to RSA being primari
+ ly used for "small pieces of data" and "key transport" rather than for gen
+ eral bulk data encryption?</span></li>\n<li class="paragraph normal ng-sta
+ r-inserted" data-start-index="1163"><span class="ng-star-inserted" data-st
+ art-index="1163">Given that RSA is also widely used for "digital signature
+ s"</span><span class="ng-star-inserted" data-start-index="1222">\, how doe
+ s this application differ in its data processing needs compared to encrypt
+ ing arbitrary messages\, and why might RSA be particularly well-suited for
+  digital signing?</span></li>\n</ul>\n</div>\n</div>\n<p><span class="ng-s
+ tar-inserted">Your initial post should be at least two paragraphs long\, w
+ ith each containing four sentences. This is due by Friday at 11:59 PM. A m
+ inimum of three replies is due Sunday evening by 11:59 PM.</span></p>\n<p>
+ &nbsp\;</p>\n<p>Works Cited:</p>\n<div>\n<p>Paar\, C.\, Pelzl\, J.\, &amp\
+ ; Güneysu\, T. (2024). <i>Understanding cryptography: From Established Sy
+ mmetric and Asymmetric Ciphers to Post-Quantum Algorithms</i>. Springer.</
+ p>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251020T050000Z
+UID:event-assignment-766215
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 7 Quiz [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=10&year=2025#assignment_766215
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T050000Z
+UID:event-assignment-777813
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:Complete the Chapter 7 quiz. You get 2 attempts on the quiz and
+  the highest grade will be recorded. \n\nLooking up the answers is cheati
+ ng. Read through the resources in the module before taking it. 
+SEQUENCE:0
+SUMMARY:Chapter 7 Quiz [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=10&year=2025#assignment_777813
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Complete the Chapter 7 quiz. You get 
+ 2 attempts on the quiz and the highest grade will be recorded.&nbsp\;</spa
+ n></p>\n<p><span>Looking up the answers is cheating. Read through the reso
+ urces in the module before taking it.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T013200Z
+UID:event-assignment-765945
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:Deconstructing RSA Key Generation\n----------------------------
+ -----\n\nThe RSA cryptosystem\, while widely used\, relies on a meticulous
+  key generation process that ensures its security and functionality. This 
+ process involves several critical mathematical steps and parameters. Write
+  an essay that elaborates on the key generation process for the RSA crypto
+ system as described in Section 7.3.\n\nIn your essay\, be sure to:\n\n* Ex
+ plain the purpose and significance of selecting two large prime numbers\, 
+ p and q\, and how their product n forms the RSA modulus. Discuss briefly h
+ ow the size of these primes (e.g.\, 1024 bits for p and q for a 2048-bit m
+ odulus n) directly relates to the scheme's practical security against fact
+ oring attacks.\n\n* Detail the calculation and role of Euler's totient fun
+ ction\, Φ(n) = (p-1)(q-1)\, within the key generation process.\n\n* Clari
+ fy the critical condition gcd(e\, Φ(n)) = 1 for choosing the public expon
+ ent e\, and precisely why this condition is absolutely necessary to guaran
+ tee the existence of the private exponent d.\n\n* Briefly mention how d is
+  computed using the Extended Euclidean Algorithm to satisfy the modular in
+ verse relationship d · e ≡ 1 mod Φ(n)\, without needing to show the al
+ gorithmic steps\n\nYour essay should draw directly from both the provided 
+ source material and external sources. Cite your work appropriately to supp
+ ort your arguments and offer detailed explanations of the cryptographic co
+ ncepts involved.  The assignment should be at a minimum of three pages an
+ d in APA format.\n\nSubmit your work as either a Word Document or a PDF. E
+ nsure you follow the rubric.
+SEQUENCE:0
+SUMMARY:Chapter 7 Writing Assignment [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=10&year=2025#assignment_765945
+X-ALT-DESC;FMTTYPE=text/html:<div class="paragraph normal ng-star-inserted"
+  data-start-index="274">\n<h3 class="paragraph heading3 ng-star-inserted" 
+ data-start-index="1504"><span class="ng-star-inserted" data-start-index="1
+ 504">Deconstructing RSA Key Generation</span></h3>\n<div class="paragraph 
+ normal ng-star-inserted" data-start-index="1579"><span class="ng-star-inse
+ rted" data-start-index="1586">The RSA cryptosystem\, while widely used\, r
+ elies on a meticulous key generation process that ensures its security and
+  functionality. This process involves several critical mathematical steps 
+ and parameters</span><span class="ng-star-inserted" data-start-index="1791
+ ">. </span><span class="ng-star-inserted" data-start-index="1803">Write an
+  essay that elaborates on the </span><span class="ng-star-inserted">key ge
+ neration process</span><span class="ng-star-inserted" data-start-index="18
+ 98"> for the RSA cryptosystem as described in Section 7.3.</span></div>\n<
+ div class="paragraph normal ng-star-inserted" data-start-index="1579"><spa
+ n class="ng-star-inserted" data-start-index="1898">In your essay\, be sure
+  to:</span></div>\n<ul>\n<li class="paragraph normal ng-star-inserted" dat
+ a-start-index="1979"><span class="ng-star-inserted" data-start-index="1979
+ ">Explain the </span><span class="ng-star-inserted">purpose and significan
+ ce</span><span class="ng-star-inserted" data-start-index="2015"> of select
+ ing two large prime numbers\, </span><code class="code ng-star-inserted" d
+ ata-start-index="2054">p</code><span class="ng-star-inserted" data-start-i
+ ndex="2055"> and </span><code class="code ng-star-inserted" data-start-ind
+ ex="2060">q</code><span class="ng-star-inserted" data-start-index="2061">\
+ , and how their product </span><code class="code ng-star-inserted" data-st
+ art-index="2085">n</code><span class="ng-star-inserted" data-start-index="
+ 2086"> forms the RSA modulus</span><span class="ng-star-inserted" data-sta
+ rt-index="2108">. Discuss briefly how the size of these primes (e.g.\, 102
+ 4 bits for </span><code class="code ng-star-inserted" data-start-index="21
+ 76">p</code><span class="ng-star-inserted" data-start-index="2177"> and </
+ span><code class="code ng-star-inserted" data-start-index="2182">q</code><
+ span class="ng-star-inserted" data-start-index="2183"> for a 2048-bit modu
+ lus </span><code class="code ng-star-inserted" data-start-index="2207">n</
+ code><span class="ng-star-inserted" data-start-index="2208">) directly rel
+ ates to the scheme's practical security against factoring attacks</span><s
+ pan class="ng-star-inserted" data-start-index="2287">.</span></li>\n<li cl
+ ass="paragraph normal ng-star-inserted" data-start-index="2288"><span clas
+ s="ng-star-inserted" data-start-index="2288">Detail the calculation and ro
+ le of </span><span class="ng-star-inserted">Euler's totient function\, Φ(
+ n) = (p-1)(q-1)</span><span class="ng-star-inserted" data-start-index="236
+ 6">\, within the key generation process</span><span class="ng-star-inserte
+ d" data-start-index="2401">.</span></li>\n<li class="paragraph normal ng-s
+ tar-inserted" data-start-index="2402"><span class="ng-star-inserted" data-
+ start-index="2402">Clarify the </span><span class="ng-star-inserted">criti
+ cal condition </span><span class="code ng-star-inserted">gcd(e\, Φ(n)) = 
+ 1</span><span class="ng-star-inserted" data-start-index="2449"> for choosi
+ ng the public exponent </span><code class="code ng-star-inserted" data-sta
+ rt-index="2483">e</code><span class="ng-star-inserted" data-start-index="2
+ 484">\, and precisely why this condition is absolutely necessary to guaran
+ tee the existence of the private exponent </span><code class="code ng-star
+ -inserted" data-start-index="2594">d</code><span class="ng-star-inserted" 
+ data-start-index="2595">.</span></li>\n<li class="paragraph normal ng-star
+ -inserted" data-start-index="2596"><span class="ng-star-inserted" data-sta
+ rt-index="2596">Briefly mention how </span><code class="code ng-star-inser
+ ted" data-start-index="2616">d</code><span class="ng-star-inserted" data-s
+ tart-index="2617"> is computed using the </span><span class="ng-star-inser
+ ted">Extended Euclidean Algorithm</span><span class="ng-star-inserted" dat
+ a-start-index="2668"> to satisfy the modular inverse relationship </span><
+ code class="code ng-star-inserted" data-start-index="2713">d · e ≡ 1 mo
+ d Φ(n)</code><span class="ng-star-inserted" data-start-index="2731">\, wi
+ thout needing to show the algorithmic steps</span></li>\n</ul>\n<div class
+ ="paragraph heading3 ng-star-inserted" data-start-index="1545">\n<div clas
+ s="paragraph normal ng-star-inserted" data-start-index="2811"><span class=
+ "ng-star-inserted" data-start-index="2811">Your essay </span><span style="
+ font-family: inherit\; font-size: 1rem\;">should draw directly from both t
+ he provided source material and external sources. Cite your work appropria
+ tely to support your arguments and offer detailed explanations of the cryp
+ tographic concepts involved.&nbsp\; The assignment should be at a minimum 
+ of three pages and in APA format.</span></div>\n</div>\n</div>\n<div class
+ ="paragraph normal ng-star-inserted" data-start-index="274">Submit your wo
+ rk as either a Word Document or a PDF. Ensure you follow the rubric.</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T122200Z
+UID:event-assignment-727833
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:All discussions must be submitted every Sunday at 6:00 p.m. (th
+ is includes original postings and replies) for attendance purposes.\n\nDis
+ cussion posts should be a paragraph or more and should fully answer the qu
+ estions provided. Please make your initial post by Friday and respond to a
+ t least 2 other students by Sunday.\n\nThis week's questions:\n\n* Discuss
+ ion: Pros and Cons of Using Honeypots. \n\n* While there are clear advant
+ ages of using honeypots and honeynets\, might there be any disadvantages o
+ f using these tactics? Discuss the pros and cons of using honeypots and fo
+ rm an opinion on whether the pros outweigh the cons. You may\, if desired\
+ , use other sources to research this topic.\n\nPosting Criteria and Gradin
+ g \n\nInitial discussion post (8 sentences)\n\n60% of overall credit\n\n2
+  replies to two other students (5 sentences each) 30% each\n\n30% of overa
+ ll credit\n\nGrammar/spelling\n\n10% of overall credit\n\n 
+SEQUENCE:0
+SUMMARY:Discussion 9 [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727833
+X-ALT-DESC;FMTTYPE=text/html:<header class="discussion-section clearfix">\n
+ <div class="discussion-header-content right-of-avatar">\n<div class="pull-
+ left">\n<p><span style="color: #e03e2d\;"><strong>All discussions must be 
+ submitted every Sunday at 6:00 p.m. (this includes original postings and r
+ eplies) for attendance purposes.</strong></span></p>\n</div>\n</div>\n</he
+ ader>\n<div class="discussion-section message_wrapper">\n<div class="messa
+ ge user_content enhanced" data-bind="message">\n<p>Discussion posts should
+  be a paragraph or more and should fully answer the questions provided. Pl
+ ease make your initial post by Friday and respond to at least 2 other stud
+ ents by Sunday.</p>\n<p><strong>This week's questions:</strong></p>\n<ol>\
+ n<li>Discussion: Pros and Cons of Using Honeypots.&nbsp\;\n<ol>\n<li>While
+  there are clear advantages of using honeypots and honeynets\, might there
+  be any disadvantages of using these tactics? Discuss the pros and cons of
+  using honeypots and form an opinion on whether the pros outweigh the cons
+ . You may\, if desired\, use other sources to research this topic.</li>\n<
+ /ol>\n</li>\n</ol>\n<p><strong>Posting Criteria and Grading&nbsp\;</strong
+ ><strong></strong></p>\n<table border="1">\n<tbody>\n<tr>\n<td>Initial dis
+ cussion post (8 sentences)</td>\n<td>60% of overall credit</td>\n</tr>\n<t
+ r>\n<td>2 replies to two other students (5 sentences each) 30% each</td>\n
+ <td>30% of overall credit</td>\n</tr>\n<tr>\n<td>Grammar/spelling</td>\n<t
+ d>10% of overall credit</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp\;</p>\n<
+ /div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T022900Z
+UID:event-assignment-736861
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:For your discussion post\, please complete either the "Linux fo
+ r Life" or "Reflection" activity found in the reading section of the modul
+ e.\n\nYour initial post is due on Friday by 11:59 PM\, and your three repl
+ ies are due by Sunday at 11:59 PM. Please review the rubric in the assignm
+ ent for details on grading requirements.
+SEQUENCE:0
+SUMMARY:Linux Chapter Two Discussion Post [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=10&year=2025#assignment_736861
+X-ALT-DESC;FMTTYPE=text/html:<p>For your discussion post\, please complete 
+ either the "Linux for Life" or "Reflection" activity found in the reading 
+ section of the module.</p>\n<p>Your initial post is due on Friday by 11:59
+  PM\, and your three replies are due by Sunday at 11:59 PM. Please review 
+ the rubric in the assignment for details on grading requirements.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251020T050000Z
+UID:event-assignment-730821
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 2-1: Introduction to Linux [25/FA CSC-121-
+ OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=10&year=2025#assignment_730821
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251028T190300Z
+UID:event-assignment-741497
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:Choose two of the provided essay prompts based on Chapter 10 of
+  the Guide to Computer Forensics and Investigations. For each prompt you s
+ elect\, write a comprehensive\, well-structured essay of at least one full
+  page using APA format. Your response must be based on the information and
+  concepts presented in the first chapter of the provided text. The use of 
+ external sources is encouraged\; however\, please review the policy on usi
+ ng AI in the syllabus for guidance. As a reminder\, your work will be auto
+ matically checked for AI generation. Ensure that you use proper citations 
+ for all works used\, including the textbook.\n\nSubmit your assignment in 
+ a single file\, using either a Word (.doc \, .docx) or PDF format.\n\n*\n\
+ nType 1 vs. Type 2 Hypervisors: Differentiate between Type 1 and Type 2 hy
+ pervisors\, explaining how they are installed and function. Provide exampl
+ es of each type (e.g.\, VMware vSphere vs. VirtualBox) and discuss why a f
+ orensic examiner is more likely to encounter a Type 2 hypervisor on a susp
+ ect's end-user device.\n\n*\n\nInvestigating Virtual Machines: Outline the
+  standard procedure for conducting a forensic analysis of a virtual machin
+ e found on a host computer. Your essay should cover imaging the host\, loc
+ ating VM-related files (e.g.\, .vmdk\, .vbox\, .log)\, exporting those fil
+ es\, and the different methods for analyzing the VM itself (mounting as a 
+ drive\, live examination\, etc.).\n\n*\n\nThe Rationale for Live Acquisiti
+ ons: Argue for the necessity of performing live acquisitions in modern dig
+ ital forensics. Explain the concept of the "order of volatility" (OOV) and
+  discuss why capturing volatile data like RAM and running processes is cri
+ tical in cases involving active intrusions\, malware that exists only in m
+ emory\, or encrypted systems.\n\n*\n\nFoundations of Network Forensics: De
+ fine network forensics and explain its primary goals. Discuss the importan
+ ce of establishing standard procedures for incident response and knowing a
+  network's typical traffic patterns to spot anomalies. How does the "defen
+ se in depth" (DiD) strategy help secure a network before an attack occurs\
+ n\n*\n\nTools for Network Analysis: Describe the function of packet analyz
+ ers like Wireshark and tcpdump in a network investigation. Explain what ki
+ nd of information can be found by examining network logs and TCP headers. 
+ Additionally\, explain the purpose of the Honeynet Project and how honeypo
+ ts are used to study attacker methodologies.
+SEQUENCE:0
+SUMMARY:Module 10 Essay [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=10&year=2025#assignment_741497
+X-ALT-DESC;FMTTYPE=text/html:<p>Choose two of the provided essay prompts ba
+ sed on Chapter 10 of the Guide to Computer Forensics and Investigations. F
+ or each prompt you select\, write a comprehensive\, well-structured essay 
+ of at least one full page using APA format. Your response must be based on
+  the information and concepts presented in the first chapter of the provid
+ ed text. The use of external sources is encouraged\; however\, please revi
+ ew the policy on using AI in the syllabus for guidance. <span>As a reminde
+ r\, your work will be automatically checked for AI generation. Ensure that
+  you use proper citations for all works used\, including the textbook.</sp
+ an></p>\n<p>Submit your assignment in a single file\, using either a Word 
+ (.doc \, .docx) or PDF format.</p>\n<ol style="list-style-type: decimal\;"
+ >\n<li>\n<p><strong>Type 1 vs. Type 2 Hypervisors:</strong> Differentiate 
+ between Type 1 and Type 2 hypervisors\, explaining how they are installed 
+ and function. Provide examples of each type (e.g.\, VMware vSphere vs. Vir
+ tualBox) and discuss why a forensic examiner is more likely to encounter a
+  Type 2 hypervisor on a suspect's end-user device.</p>\n</li>\n<li>\n<p><s
+ trong>Investigating Virtual Machines: </strong>Outline the standard proced
+ ure for conducting a forensic analysis of a virtual machine found on a hos
+ t computer. Your essay should cover imaging the host\, locating VM-related
+  files (e.g.\, .vmdk\, .vbox\, .log)\, exporting those files\, and the dif
+ ferent methods for analyzing the VM itself (mounting as a drive\, live exa
+ mination\, etc.).</p>\n</li>\n<li>\n<p><strong>The Rationale for Live Acqu
+ isitions:</strong> Argue for the necessity of performing live acquisitions
+  in modern digital forensics. Explain the concept of the "order of volatil
+ ity" (OOV) and discuss why capturing volatile data like RAM and running pr
+ ocesses is critical in cases involving active intrusions\, malware that ex
+ ists only in memory\, or encrypted systems.</p>\n</li>\n<li>\n<p><strong>F
+ oundations of Network Forensics: </strong>Define network forensics and exp
+ lain its primary goals. Discuss the importance of establishing standard pr
+ ocedures for incident response and knowing a network's typical traffic pat
+ terns to spot anomalies. How does the "defense in depth" (DiD) strategy he
+ lp secure a network before an attack occurs</p>\n</li>\n<li>\n<p><strong>T
+ ools for Network Analysis: </strong>Describe the function of packet analyz
+ ers like Wireshark and tcpdump in a network investigation. Explain what ki
+ nd of information can be found by examining network logs and TCP headers. 
+ Additionally\, explain the purpose of the Honeynet Project and how honeypo
+ ts are used to study attacker methodologies.</p>\n</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251020T050000Z
+UID:event-assignment-730847
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Chapter 02 Linux Installation and Usage [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=10&year=2025#assignment_730847
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251020T050000Z
+UID:event-assignment-730869
+DTSTART;VALUE=DATE;VALUE=DATE:20251026
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 2-1: Install Fedora Workstation Linux on a VM [25/FA CSC
+ -121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=10&year=2025#assignment_730869
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251001T050000Z
+UID:event-assignment-727828
+DTSTART;VALUE=DATE;VALUE=DATE:20251027
+CLASS:PUBLIC
+DESCRIPTION:Details about the Exam 1 (Mid-Term)\n\n* Covers Chapters 1- 8\n
+ \n* 50 Questions (Questions may be in multiple-choice/ true false/ fill-in
+ -the-blank format)\n\n* Possible grade: 100\n\n* Time limit: 70 minutes\n\
+ n* Number of attempts: 2\n\nGood luck to all!
+SEQUENCE:0
+SUMMARY:Exam 1 (Mid-Term) [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=10&year=2025#assignment_727828
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><u>Details about the Exam 1 (Mid-Te
+ rm)</u></strong></p>\n<ul>\n<li>Covers Chapters 1- 8</li>\n<li>50 Question
+ s (Questions may be in multiple-choice/ true false/ fill-in-the-blank form
+ at)</li>\n<li>Possible grade: 100</li>\n<li>Time limit: 70 minutes</li>\n<
+ li>Number of attempts: 2</li>\n</ul>\n<p>Good luck to all!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T060000Z
+UID:event-assignment-737144
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab 11-1: E-mail and Social Media Investigations [25/FA CIS-602-OL0
+ 1]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737144
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T030900Z
+UID:event-assignment-736863
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:For your discussion post\, please complete either the "Linux fo
+ r Life" or "Reflection" activity found in the reading section of the modul
+ e.\n\nYour initial post is due on Friday by 11:59 PM\, and your three repl
+ ies are due by Sunday at 11:59 PM. Please review the rubric in the assignm
+ ent for details on grading requirements.
+SEQUENCE:0
+SUMMARY:Linux Chapter Four Discussion Post [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_736863
+X-ALT-DESC;FMTTYPE=text/html:<p>For your discussion post\, please complete 
+ either the "Linux for Life" or "Reflection" activity found in the reading 
+ section of the module.</p>\n<p>Your initial post is due on Friday by 11:59
+  PM\, and your three replies are due by Sunday at 11:59 PM. Please review 
+ the rubric in the assignment for details on grading requirements.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T050000Z
+UID:event-assignment-737131
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:Class\,\n\nI want you to make sure you read through Module 11 b
+ efore thinking about the hypothetical scenario below:\n\nYou are the newly
+  hired Security Analyst at XYZ Corporation\, and your first task is to rev
+ iew company email and social media security.  Your boss explained that vi
+ a email\, some viruses in the past year have made it into the environment.
+   Your boss explains that most employees in the company don't seem to und
+ erstand basic email precautions and seem to click on anything that comes t
+ hrough their email.  Your boss also explains that the current email filte
+ r is about five years old and hasn't been audited for a long time.  Emplo
+ yees on company computers also use Social Media\, and your boss wants you 
+ to think about what kind of policies should be enforced in the future rega
+ rding social media policy.\n\nThere is no right or wrong answer to the abo
+ ve scenario. Use what you know based on the Module 11 reading to answer th
+ e prompt in your own words. \n\nI want you to:\n\n* Explain what you woul
+ d advise your boss to do over the first 90 days.\n\n* What kind of email p
+ olicy would you enforce?\n\n* What kind of social media policy would you t
+ ry to enforce?\n\nPlease create your main post with a minimum of two compl
+ ete paragraphs due Friday by midnight\, and your three reply minimum is du
+ e Sunday by midnight.
+SEQUENCE:0
+SUMMARY:Module 11 Discussion [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737131
+X-ALT-DESC;FMTTYPE=text/html:<p>Class\,</p>\n<p>I want you to make sure you
+  read through Module 11 before thinking about the hypothetical scenario be
+ low:</p>\n<p><em>You are the newly hired Security Analyst at XYZ Corporati
+ on\, and your first task is to review company email and social media secur
+ ity.&nbsp\; Your boss explained that via email\, some viruses in the past 
+ year have made it into the environment.&nbsp\; Your boss explains that mos
+ t employees in the company don't seem to understand basic email precaution
+ s and seem to click on anything that comes through their email.&nbsp\; You
+ r boss also explains that the current email filter is about five years old
+  and hasn't been audited for a long time.&nbsp\; Employees on company comp
+ uters also use Social Media\, and your boss wants you to think about what 
+ kind of policies should be enforced in the future regarding social media p
+ olicy.</em></p>\n<p>There is no right or wrong answer to the above scenari
+ o. Use what you know based on the Module 11 reading to answer the prompt i
+ n your own words.&nbsp\;</p>\n<p>I want you to:</p>\n<ul>\n<li>Explain wha
+ t you would advise your boss to do over the first 90 days.</li>\n<li>What 
+ kind of email policy would you enforce?</li>\n<li>What kind of social medi
+ a policy would you try to enforce?</li>\n</ul>\n<p>Please create your main
+  post with a minimum of two complete paragraphs due Friday by midnight\, a
+ nd your three reply minimum is due Sunday by midnight.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T060000Z
+UID:event-assignment-737157
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Module 11 Quiz [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737157
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T184100Z
+UID:event-assignment-727225
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:Class\,\n\nYour assignment this week is to research an article 
+ online that discusses an employment issue that occurred with regards to so
+ cial media. \n\nExample:  You could find a something in the news about a
+ n employee losing their job because of something they posted on social med
+ ia. \n\nYou will need to read the article and than summarize in your own 
+ words what you learned from the article and its significance\, your summar
+ y should be a minimum of 2 complete paragraphs submitted in a Microsoft Wo
+ rd file and is due Sunday by midnight.
+SEQUENCE:0
+SUMMARY:Week 11 Critical Thinking Assignment [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=11&year=2025#assignment_727225
+X-ALT-DESC;FMTTYPE=text/html:<p>Class\,</p>\n<p>Your assignment this week i
+ s to research an article online that discusses an employment issue that oc
+ curred with regards to social media.&nbsp\;</p>\n<p><strong>Example:</stro
+ ng>&nbsp\; You could find a something in the news about an employee losing
+  their job because of something they posted on social media.&nbsp\;</p>\n<
+ p>You will need to read the article and than summarize in your own words w
+ hat you learned from the article and its significance\, your summary shoul
+ d be a minimum of 2 complete paragraphs submitted in a Microsoft Word file
+  and is due Sunday by midnight.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T184100Z
+UID:event-assignment-727218
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:Please be sure to read through Chapter 8 before answering the b
+ elow questions in your own words:\n\n1. Your own original post that answer
+ s the question below: (Due Friday midnight) 5pts\n\n* Please review pages
+  9-3b\, which says "According to CareerBuilder\, 60 percent of employers u
+ sed social media to research job candidates in 2016"\n\n* Do you feel that
+  employers should have the right to make hiring decisions based on a candi
+ dates social media?  Elaborate on your stance\n\n* What would you recomme
+ nd a friend or family member do to safeguard their social media informatio
+ n?\n\n* list strategies or social media best practices \n\n* How do you f
+ eel social media has affected a company's customer services practices?\n\n
+ 2. Reply to 2 classmates' posts. (Due Sunday midnight) 5pts\n\n \n\nRubr
+ ic\n\nTo receive full credit\, your post and reply must be...\n\n* At leas
+ t three sentences in length (two paragraphs of at least 3 sentences each f
+ or the initial post)\n\n* Written in complete\, grammatically correct sent
+ ences\n\n* Free from spelling errors\n\n* An intelligent response
+SEQUENCE:0
+SUMMARY:Week 11 Discussion [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=11&year=2025#assignment_727218
+X-ALT-DESC;FMTTYPE=text/html:<p>Please be sure to read through Chapter 8 be
+ fore answering the below questions in your own words:</p><p><span>1. Your 
+ own original post that answers the question below: (Due Friday midnight)&n
+ bsp\;</span><strong>5pts</strong></p><ul><li>Please review pages 9-3b\, wh
+ ich says "According to CareerBuilder\, 60 percent of employers used social
+  media to research job candidates in 2016"<ul><li>Do you feel that employe
+ rs should have the right to make hiring decisions based on a candidates so
+ cial media?&nbsp\; Elaborate on your stance</li><li>What would you recomme
+ nd a friend or family member do to safeguard their social media informatio
+ n?<ul><li>list strategies or social media best practices&nbsp\;</li></ul><
+ /li><li>How do you feel social media has affected a company's customer ser
+ vices practices?</li></ul></li></ul><p><span>2. Reply to 2 classmates' pos
+ ts. (Due Sunday midnight)</span><span>&nbsp\;</span><strong>5pts</strong><
+ /p><p>&nbsp\;</p><p><em><span>Rubric</span></em></p><p>To receive full cre
+ dit\, your post and reply must be...</p><ul><li>At least three sentences i
+ n length (two paragraphs of at least 3 sentences each for the initial post
+ )</li><li>Written in complete\, grammatically correct sentences</li><li>Fr
+ ee from spelling errors</li><li>An intelligent response</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T184100Z
+UID:event-assignment-727198
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:please be sure to read through chapter 9 before taking the quiz
+ \, you get 2 attempts
+SEQUENCE:0
+SUMMARY:Week 11 Quiz [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=11&year=2025#assignment_727198
+X-ALT-DESC;FMTTYPE=text/html:<p>please be sure to read through chapter 9 be
+ fore taking the quiz\, you get 2 attempts</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T210900Z
+UID:event-assignment-781804
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:8-1: Using Google Cloud [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_781804
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T050000Z
+UID:event-assignment-766216
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:The Practicality and Perils of Diffie–Hellman Key Exchange\n-
+ ---------------------------------------------------------\n\nIn Section 8.
+ 1\, the source introduces the Diffie–Hellman Key Exchange (DHKE) as a fo
+ undational asymmetric scheme designed to solve the key distribution proble
+ m.\n\n• Explain how the Diffie–Hellman Key Exchange (DHKE) enables two
+  parties to derive a common secret key by communicating over an insecure c
+ hannel\, thereby addressing the key distribution problem in cryptography.\
+ n\n• Discuss the fundamental mathematical properties—specifically\, th
+ e nature of exponentiation in [LaTeX: \\mathbb{Z}_{p}^{*} ] (https://class
+ es.iwcc.edu/equation_images/%255Cmathbb%257BZ%257D_%257Bp%257D%255E%257B*%
+ 257D%2520?scale=1) as a one-way function and its commutative property—t
+ hat make the DHKE protocol possible and secure in principle.\n\n• Beyond
+  the inherent difficulty of the Discrete Logarithm Problem (DLP) itself\, 
+ identify and explain a significant security vulnerability of the basic DHK
+ E protocol that arises when the communication channel is not authenticated
+ . Briefly mention how this vulnerability is typically addressed in practic
+ e.\n\nYour initial post should be at least two paragraphs long\, with each
+  containing four sentences. This is due by Friday at 11:59 PM. A minimum o
+ f three replies is due Sunday evening by 11:59 PM.\n\n \n\nWorks Cited:\n
+ \nPaar\, C.\, Pelzl\, J.\, & Güneysu\, T. (2024). Understanding cryptogra
+ phy: From Established Symmetric and Asymmetric Ciphers to Post-Quantum Alg
+ orithms. Springer.
+SEQUENCE:0
+SUMMARY:Chapter 8 Discussion [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_766216
+X-ALT-DESC;FMTTYPE=text/html:<div class="paragraph normal ng-star-inserted"
+  data-start-index="224">\n<div class="paragraph normal ng-star-inserted" d
+ ata-start-index="310">\n<h3 class="paragraph heading3 ng-star-inserted" da
+ ta-start-index="181"><span class="ng-star-inserted">The Practicality and P
+ erils of Diffie–Hellman Key Exchange</span></h3>\n<div class="paragraph 
+ normal ng-star-inserted" data-start-index="269"><span class="ng-star-inser
+ ted" data-start-index="269">In Section 8.1\, the source introduces the </s
+ pan><span class="ng-star-inserted">Diffie–Hellman Key Exchange (DHKE)</s
+ pan><span class="ng-star-inserted" data-start-index="345"> as a foundation
+ al asymmetric scheme designed to solve the </span><span class="ng-star-ins
+ erted">key distribution problem</span><span class="ng-star-inserted" data-
+ start-index="428">.</span></div>\n<div class="paragraph normal ng-star-ins
+ erted" data-start-index="429"><span class="ng-star-inserted">• </span><s
+ pan class="ng-star-inserted" data-start-index="429">Explain how the </span
+ ><span class="ng-star-inserted">Diffie–Hellman Key Exchange (DHKE)</span
+ ><span class="ng-star-inserted" data-start-index="479"> enables two partie
+ s to </span><span class="ng-star-inserted">derive a common secret key by c
+ ommunicating over an insecure channel</span><span class="ng-star-inserted"
+  data-start-index="571">\, thereby addressing the key distribution problem
+  in cryptography</span><span class="ng-star-inserted" data-start-index="63
+ 6">.</span></div>\n<div class="paragraph normal ng-star-inserted" data-sta
+ rt-index="637"><span class="ng-star-inserted">• </span><span class="ng-s
+ tar-inserted" data-start-index="637">Discuss the </span><span class="ng-st
+ ar-inserted">fundamental mathematical properties</span><span class="ng-sta
+ r-inserted" data-start-index="684">—specifically\, the nature of </span>
+ <span class="ng-star-inserted">exponentiation in <img class="equation_imag
+ e" title="\\mathbb{Z}_{p}^{*} " src="https://classes.iwcc.edu/equation_ima
+ ges/%255Cmathbb%257BZ%257D_%257Bp%257D%255E%257B*%257D%2520?scale=1" alt="
+ LaTeX: \\mathbb{Z}_{p}^{*} " data-equation-content="\\mathbb{Z}_{p}^{*} " 
+ data-ignore-a11y-check="" loading="lazy" x-canvaslms-safe-mathml="<math xm
+ lns=&quot\;http://www.w3.org/1998/Math/MathML&quot\;>\n  <msubsup>\n    <m
+ row class=&quot\;MJX-TeXAtom-ORD&quot\;>\n      <mi mathvariant=&quot\;dou
+ ble-struck&quot\;>Z</mi>\n    </mrow>\n    <mrow class=&quot\;MJX-TeXAtom-
+ ORD&quot\;>\n      <mi>p</mi>\n    </mrow>\n    <mrow class=&quot\;MJX-TeX
+ Atom-ORD&quot\;>\n      <mo>&amp\;#x2217\;<!-- ∗ --></mo>\n    </mrow>\n
+   </msubsup>\n</math>"></span><span class="ng-star-inserted" data-start-in
+ dex="734">&nbsp\;as a </span><span class="ng-star-inserted">one-way functi
+ on</span><span class="ng-star-inserted" data-start-index="756"> and its </
+ span><span class="ng-star-inserted">commutative property</span><span class
+ ="ng-star-inserted" data-start-index="785">—that make the DHKE protocol 
+ possible and secure in principle</span><span class="ng-star-inserted" data
+ -start-index="846">.</span></div>\n<div class="paragraph normal ng-star-in
+ serted" data-start-index="847"><span class="ng-star-inserted">• </span><
+ span class="ng-star-inserted" data-start-index="847">Beyond the inherent d
+ ifficulty of the Discrete Logarithm Problem (DLP) itself\, identify and ex
+ plain a </span><span class="ng-star-inserted">significant security vulnera
+ bility</span><span class="ng-star-inserted" data-start-index="983"> of the
+  </span><i class="ng-star-inserted" data-start-index="991">basic</i><span 
+ class="ng-star-inserted" data-start-index="996"> DHKE protocol that arises
+  when the communication channel is </span><i class="ng-star-inserted" data
+ -start-index="1057">not</i><span class="ng-star-inserted" data-start-index
+ ="1060"> authenticated</span><span class="ng-star-inserted" data-start-ind
+ ex="1074">. Briefly mention how this vulnerability is typically addressed 
+ in practice</span><span class="ng-star-inserted" data-start-index="1149">.
+ </span></div>\n</div>\n</div>\n<p><span class="ng-star-inserted">Your init
+ ial post should be at least two paragraphs long\, with each containing fou
+ r sentences. This is due by Friday at 11:59 PM. A minimum of three replies
+  is due Sunday evening by 11:59 PM.</span></p>\n<p>&nbsp\;</p>\n<p>Works C
+ ited:</p>\n<div>\n<p>Paar\, C.\, Pelzl\, J.\, &amp\; Güneysu\, T. (2024).
+  <i>Understanding cryptography: From Established Symmetric and Asymmetric 
+ Ciphers to Post-Quantum Algorithms</i>. Springer.</p>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T050000Z
+UID:event-assignment-766219
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 8 Quiz [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_766219
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T211300Z
+UID:event-assignment-781803
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:Complete the Chapter 8 quiz. You get 2 attempts on the quiz and
+  the highest grade will be recorded. \n\nLooking up the answers is cheati
+ ng. Read through the resources in the module before taking it. 
+SEQUENCE:0
+SUMMARY:Chapter 8 Quiz [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_781803
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Complete the Chapter 8 quiz. You get 
+ 2 attempts on the quiz and the highest grade will be recorded.&nbsp\;</spa
+ n></p>\n<p><span>Looking up the answers is cheating. Read through the reso
+ urces in the module before taking it.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T050000Z
+UID:event-assignment-766217
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:Unpacking the Discrete Logarithm Problem: Foundations and Crypt
+ analytic Approaches\n-----------------------------------------------------
+ -----------------------------\n\nThe Discrete Logarithm Problem (DLP) is p
+ resented in Chapter 8 as a crucial one-way function underpinning the secur
+ ity of numerous public-key algorithms\, including the Diffie–Hellman Key
+  Exchange and Elgamal encryption.\n\n* Drawing on the concepts of abstract
+  algebra from Section 8.2\, explain what constitutes a finite cyclic group
+  and how a primitive element (also known as a generator) can generate all 
+ elements within such a group.\n\n* Formally define the Discrete Logarithm 
+ Problem (DLP) itself within this algebraic context\, stating the given inp
+ uts and the desired output.\n\n* Then\, compare and contrast two distinct 
+ classes of algorithms used to attack the DLP: one that is generic (applica
+ ble to any finite cyclic group) and another that is nongeneric (exploits s
+ pecific algebraic structures of the group). For each class\, describe its 
+ underlying principle\, its general computational complexity\, and explicit
+ ly state whether it applies to DLP instances in prime fields ([LaTeX: \\ma
+ thbb{Z}_{p}^{*} ] (https://classes.iwcc.edu/equation_images/%255Cmathbb%25
+ 7BZ%257D_%257Bp%257D%255E%257B*%257D%2520?scale=1)) and/or elliptic curve 
+ groups.\n\nYour essay should draw directly from both the provided source m
+ aterial and external sources. Cite your work appropriately to support your
+  arguments and offer detailed explanations of the cryptographic concepts i
+ nvolved.  The assignment should be at a minimum of three pages and in APA
+  format.\n\nSubmit your work as either a Word Document or a PDF. Ensure yo
+ u follow the rubric.
+SEQUENCE:0
+SUMMARY:Chapter 8 Writing Assignment [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_766217
+X-ALT-DESC;FMTTYPE=text/html:<div class="paragraph normal ng-star-inserted"
+  data-start-index="274">\n<h3 class="paragraph heading3 ng-star-inserted" 
+ data-start-index="1232"><span class="ng-star-inserted">Unpacking the Discr
+ ete Logarithm Problem: Foundations and Cryptanalytic Approaches</span></h3
+ >\n<div class="paragraph normal ng-star-inserted" data-start-index="1341">
+ <span class="ng-star-inserted" data-start-index="1341">The </span><span cl
+ ass="ng-star-inserted">Discrete Logarithm Problem (DLP)</span><span class=
+ "ng-star-inserted" data-start-index="1377"> is presented in Chapter 8 as a
+  crucial one-way function underpinning the security of numerous public-key
+  algorithms\, including the Diffie–Hellman Key Exchange and Elgamal encr
+ yption</span><span class="ng-star-inserted" data-start-index="1559">.</spa
+ n></div>\n<ul>\n<li class="paragraph normal ng-star-inserted" data-start-i
+ ndex="1560"><span class="ng-star-inserted" data-start-index="1560">Drawing
+  on the concepts of </span><span class="ng-star-inserted">abstract algebra
+  from Section 8.2</span><span class="ng-star-inserted" data-start-index="1
+ 620">\, explain what constitutes a </span><span class="ng-star-inserted">f
+ inite cyclic group</span><span class="ng-star-inserted" data-start-index="
+ 1668"> and how a </span><span class="ng-star-inserted">primitive element (
+ also known as a generator)</span><span class="ng-star-inserted" data-start
+ -index="1724"> can generate all elements within such a group</span><span c
+ lass="ng-star-inserted" data-start-index="1770">.</span></li>\n<li class="
+ paragraph normal ng-star-inserted" data-start-index="1771"><span class="ng
+ -star-inserted" data-start-index="1771">Formally define the </span><span c
+ lass="ng-star-inserted">Discrete Logarithm Problem (DLP)</span><span class
+ ="ng-star-inserted" data-start-index="1823"> itself within this algebraic 
+ context\, stating the given inputs and the desired output</span><span clas
+ s="ng-star-inserted" data-start-index="1909">.</span></li>\n<li class="par
+ agraph normal ng-star-inserted" data-start-index="1910"><span class="ng-st
+ ar-inserted" data-start-index="1910">Then\, compare and contrast </span><s
+ pan class="ng-star-inserted">two distinct classes of algorithms used to at
+ tack the DLP</span><span class="ng-star-inserted" data-start-index="1994">
+ : one that is </span><span class="ng-star-inserted">generic</span><span cl
+ ass="ng-star-inserted" data-start-index="2015"> (applicable to any finite 
+ cyclic group) and another that is </span><span class="ng-star-inserted">no
+ ngeneric</span><span class="ng-star-inserted" data-start-index="2086"> (ex
+ ploits specific algebraic structures of the group)</span><span class="ng-s
+ tar-inserted" data-start-index="2140">. For each class\, describe its </sp
+ an><span class="ng-star-inserted">underlying principle</span><span class="
+ ng-star-inserted" data-start-index="2191">\, its </span><span class="ng-st
+ ar-inserted">general computational complexity</span><span class="ng-star-i
+ nserted" data-start-index="2229">\, and explicitly state whether it applie
+ s to DLP instances in </span><span class="ng-star-inserted">prime fields (
+ <img class="equation_image" title="\\mathbb{Z}_{p}^{*} " src="https://clas
+ ses.iwcc.edu/equation_images/%255Cmathbb%257BZ%257D_%257Bp%257D%255E%257B*
+ %257D%2520?scale=1" alt="LaTeX: \\mathbb{Z}_{p}^{*} " data-equation-conten
+ t="\\mathbb{Z}_{p}^{*} " data-ignore-a11y-check="" loading="lazy" x-canvas
+ lms-safe-mathml="<math xmlns=&quot\;http://www.w3.org/1998/Math/MathML&quo
+ t\;>\n  <msubsup>\n    <mrow class=&quot\;MJX-TeXAtom-ORD&quot\;>\n      <
+ mi mathvariant=&quot\;double-struck&quot\;>Z</mi>\n    </mrow>\n    <mrow 
+ class=&quot\;MJX-TeXAtom-ORD&quot\;>\n      <mi>p</mi>\n    </mrow>\n    <
+ mrow class=&quot\;MJX-TeXAtom-ORD&quot\;>\n      <mo>&amp\;#x2217\;<!-- 
+ ∗ --></mo>\n    </mrow>\n  </msubsup>\n</math>">)</span><span class="ng-
+ star-inserted" data-start-index="2315"> and/or </span><span class="ng-star
+ -inserted">elliptic curve groups.</span></li>\n</ul>\n<div class="paragrap
+ h normal ng-star-inserted" data-start-index="2811"><span class="ng-star-in
+ serted" data-start-index="2811">Your essay </span><span style="font-family
+ : inherit\; font-size: 1rem\;">should draw directly from both the provided
+  source material and external sources. Cite your work appropriately to sup
+ port your arguments and offer detailed explanations of the cryptographic c
+ oncepts involved.&nbsp\; The assignment should be at a minimum of three pa
+ ges and in APA format.</span></div>\n</div>\n<div class="paragraph normal 
+ ng-star-inserted" data-start-index="274">Submit your work as either a Word
+  Document or a PDF. Ensure you follow the rubric.</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T132300Z
+UID:event-assignment-727837
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:Mobile Protection\n\nAll discussions must be submitted every Su
+ nday at 6:00 p.m. (this includes original postings and replies) for attend
+ ance purposes.\n\nDiscussion posts should be a paragraph or more and shoul
+ d fully answer the questions provided. Please make your initial post by Fr
+ iday and respond to at least 2 other students by Sunday.\n\nThis week's qu
+ estions:\n\n* Discussion: Going Contactless? (Near Field Communication (NF
+ C) Attacks\, Radio Frequency Identification (RFID) Attacks.\n\n* Contactle
+ ss payment systems are on the rise. Most of them use NFC or RFID technolog
+ y. Take a few minutes to review these technologies and perhaps do some add
+ itional research about their safety.\n\n* Based on what you know\, do you 
+ think contactless payment is more or less secure than traditional payment 
+ methods? Why?\n\nPosting Criteria and Grading \n\nInitial discussion post
+  (8 sentences)\n\n60% of overall credit\n\n2 replies to two other students
+  (5 sentences each) 30% each\n\n30% of overall credit\n\nGrammar/spelling\
+ n\n10% of overall credit\n\nTo submit your responses to the questions\, fo
+ llow the steps below:\n\n* Click Reply at the bottom\, and post your resp
+ onses to both questions in the same thread.  Be sure to click Post Reply
+  at the bottom of the screen when you have completed your response.  If 
+ you click Save Draft\, your message cannot be viewed by the instructor o
+ r other students.\n\n* As other students post their opinions\, read throug
+ h the forum\, and respond to at least two other messages by clicking Re
+ ply to the student's post\, and Post Reply.  The first couple of studen
+ ts who post messages may have to check back later to post their replies.\n
+ \n 
+SEQUENCE:0
+SUMMARY:Discussion 10 [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727837
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Mobile Protection</strong></p>\n<p>
+ <span style="background-color: #ecf0f1\; font-size: 14pt\;"><strong style=
+ "color: #e03e2d\;">All discussions must be submitted every Sunday at 6:00 
+ p.m. (this includes original postings and replies) for </strong><span styl
+ e="color: #e03e2d\;"><strong>attendance</strong></span><strong style="colo
+ r: #e03e2d\;"> purposes.</strong></span></p>\n<p>Discussion posts should b
+ e a paragraph or more and should fully answer the questions provided. Plea
+ se make your initial post by Friday and respond to at least 2 other studen
+ ts by Sunday.</p>\n<p><strong>This week's questions:</strong></p>\n<ol>\n<
+ li>Discussion: Going Contactless? (Near Field Communication (NFC) Attacks\
+ , Radio Frequency Identification (RFID) Attacks.\n<ol>\n<li>Contactless pa
+ yment systems are on the rise. Most of them use NFC or RFID technology. Ta
+ ke a few minutes to review these technologies and perhaps do some addition
+ al research about their safety.</li>\n<li>Based on what you know\, do you 
+ think contactless payment is more or less secure than traditional payment 
+ methods? Why?</li>\n</ol>\n</li>\n</ol>\n<p><strong>Posting Criteria </str
+ ong><strong>and Grading&nbsp\;</strong><strong></strong></p>\n<table style
+ ="border-collapse: collapse\; width: 58.148%\; height: 111px\;" border="1"
+ >\n<tbody>\n<tr style="height: 29px\;">\n<td style="width: 49.9483%\; heig
+ ht: 29px\;">Initial discussion post (8 sentences)</td>\n<td style="width: 
+ 49.9483%\; height: 29px\;">60% of overall credit</td>\n</tr>\n<tr style="h
+ eight: 53px\;">\n<td style="width: 49.9483%\; height: 53px\;">2 replies to
+  two other students (5 sentences each) 30% each</td>\n<td style="width: 49
+ .9483%\; height: 53px\;">30% of overall credit</td>\n</tr>\n<tr style="hei
+ ght: 29px\;">\n<td style="width: 49.9483%\; height: 29px\;">Grammar/spelli
+ ng</td>\n<td style="width: 49.9483%\; height: 29px\;">10% of overall credi
+ t</td>\n</tr>\n</tbody>\n</table>\n<p>To submit your responses to the ques
+ tions\, follow the steps below:</p>\n<ol>\n<li>Click Reply at the bottom<e
+ m>\,&nbsp\;</em>and post your responses to both questions in the same thre
+ ad.&nbsp\; Be sure to click Pos<em>t Reply&nbsp\;</em>at the bottom of the
+  screen when you have completed your response.&nbsp\; If you click&nbsp\;<
+ em>Save Draft\,&nbsp\;</em>your message cannot be viewed by the instructor
+  or other students.</li>\n<li>As other students post their opinions\, read
+  through the forum\, and respond to at least&nbsp\;two other&nbsp\;message
+ s by clicking&nbsp\;<em>Reply to the student's post\,&nbsp\;</em>and&nbsp\
+ ;<em>Post Reply</em>.&nbsp\; The first couple of students who post message
+ s may have to check back later to post their replies.</li>\n</ol>\n<p>&nbs
+ p\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T211000Z
+UID:event-assignment-781805
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:Lab 8-1: Set up Wi-Fi and Configure Port Forwarding [25/FA NET-790-
+ OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_781805
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T211000Z
+UID:event-assignment-781806
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:Lab 8-5: Troubleshoot Network Wiring [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_781806
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T202400Z
+UID:event-assignment-730826
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 4-1: File and Directory Management in Linu
+ x [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730826
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T202400Z
+UID:event-assignment-730827
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 4-2: Access Control Utilities [25/FA CSC-1
+ 21-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730827
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T050000Z
+UID:event-assignment-741498
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:Choose two of the provided essay prompts based on Chapter 11 of
+  the Guide to Computer Forensics and Investigations. For each prompt you s
+ elect\, write a comprehensive\, well-structured essay of at least one full
+  page using APA format. Your response must be based on the information and
+  concepts presented in the first chapter of the provided text. The use of 
+ external sources is encouraged\; however\, please review the policy on usi
+ ng AI in the syllabus for guidance. As a reminder\, your work will be auto
+ matically checked for AI generation. Ensure that you use proper citations 
+ for all works used\, including the textbook.\n\nSubmit your assignment in 
+ a single file\, using either a Word (.doc\, .docx) or PDF format.\n\n*\n\n
+ Anatomy of an E-mail Investigation: Detail the process of tracing an e-mai
+ l message back to its source. Explain the forensic significance of an e-ma
+ il header\, including the information contained within it (IP addresses\, 
+ ESMTP numbers\, etc.) and how investigators use network e-mail logs and on
+ line lookup tools (like ARIN) to corroborate this information.\n\n*\n\nCli
+ ent vs. Server E-mail Forensics: Compare the challenges and procedures for
+  recovering e-mail evidence from a client computer versus an e-mail server
+ . Discuss how e-mail storage (.pst files vs. server databases)\, logging c
+ onfigurations (like circular logging)\, and access protocols (POP3 vs. IMA
+ P4) affect the investigation.\n\n*\n\nSocial Media as a Source of Evidence
+ : Discuss the growing role of online social networks (OSNs) like Facebook 
+ and Twitter in both civil and criminal investigations. What types of evide
+ ntiary information can be found on these platforms? Analyze the primary ch
+ allenges investigators face\, including data volume\, jurisdictional issue
+ s\, and the need for warrants or subpoenas to access non-public informatio
+ n from vendors.\n\n*\n\nForensic Linguistics: Define forensic linguistics 
+ and explain its application in an e-mail or social media investigation. Di
+ scuss what a forensic linguist can and cannot determine from a piece of wr
+ iting and how this analysis can be used as evidence to help authenticate (
+ or dispute) the authorship of a message.\n\n*\n\nRecovering Deleted E-mail
+ : Explain the different methods an investigator can use to recover deleted
+  e-mail messages. Your answer should cover the use of specialized GUI tool
+ s (like Magnet AXIOM)\, the manual process of carving messages from an mbo
+ x format file using a hex editor\, and the function of utilities like scan
+ pst.exe for repairing corrupted Outlook files.
+SEQUENCE:0
+SUMMARY:Module 11 Essay [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_741498
+X-ALT-DESC;FMTTYPE=text/html:<p>Choose two of the provided essay prompts ba
+ sed on Chapter 11 of the Guide to Computer Forensics and Investigations. F
+ or each prompt you select\, write a comprehensive\, well-structured essay 
+ of at least one full page using APA format. Your response must be based on
+  the information and concepts presented in the first chapter of the provid
+ ed text. The use of external sources is encouraged\; however\, please revi
+ ew the policy on using AI in the syllabus for guidance. <span>As a reminde
+ r\, your work will be automatically checked for AI generation. Ensure that
+  you use proper citations for all works used\, including the textbook.</sp
+ an></p>\n<p>Submit your assignment in a single file\, using either a Word 
+ (.doc\, .docx) or PDF format.</p>\n<ol style="list-style-type: decimal\;">
+ \n<li>\n<p><strong>Anatomy of an E-mail Investigation:</strong> Detail the
+  process of tracing an e-mail message back to its source. Explain the fore
+ nsic significance of an e-mail header\, including the information containe
+ d within it (IP addresses\, ESMTP numbers\, etc.) and how investigators us
+ e network e-mail logs and online lookup tools (like ARIN) to corroborate t
+ his information.</p>\n</li>\n<li>\n<p><strong>Client vs. Server E-mail For
+ ensics:</strong> Compare the challenges and procedures for recovering e-ma
+ il evidence from a client computer versus an e-mail server. Discuss how e-
+ mail storage (.pst files vs. server databases)\, logging configurations (l
+ ike circular logging)\, and access protocols (POP3 vs. IMAP4) affect the i
+ nvestigation.</p>\n</li>\n<li>\n<p><strong>Social Media</strong> as a Sour
+ ce of Evidence: Discuss the growing role of online social networks (OSNs) 
+ like Facebook and Twitter in both civil and criminal investigations. What 
+ types of evidentiary information can be found on these platforms? Analyze 
+ the primary challenges investigators face\, including data volume\, jurisd
+ ictional issues\, and the need for warrants or subpoenas to access non-pub
+ lic information from vendors.</p>\n</li>\n<li>\n<p><strong>Forensic Lingui
+ stics:</strong> Define forensic linguistics and explain its application in
+  an e-mail or social media investigation. Discuss what a forensic linguist
+  can and cannot determine from a piece of writing and how this analysis ca
+ n be used as evidence to help authenticate (or dispute) the authorship of 
+ a message.</p>\n</li>\n<li>\n<p><strong>Recovering Deleted E-mail: </stron
+ g>Explain the different methods an investigator can use to recover deleted
+  e-mail messages. Your answer should cover the use of specialized GUI tool
+ s (like Magnet AXIOM)\, the manual process of carving messages from an mbo
+ x format file using a hex editor\, and the function of utilities like scan
+ pst.exe for repairing corrupted Outlook files.</p>\n</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T202400Z
+UID:event-assignment-730849
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Chapter 04 Linux Filesystem Management [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730849
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T202400Z
+UID:event-assignment-730871
+DTSTART;VALUE=DATE;VALUE=DATE:20251102
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 4-1: Create and Examine Directories [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730871
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T130500Z
+UID:event-assignment-727874
+DTSTART;VALUE=DATE;VALUE=DATE:20251105
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Module 10 Wireless Network Attacks and Defenses [25/FA CIS-61
+ 6-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727874
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T130500Z
+UID:event-assignment-727882
+DTSTART;VALUE=DATE;VALUE=DATE:20251105
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 10-1: Using a Wireless Monitor Tool [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727882
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T130500Z
+UID:event-assignment-727883
+DTSTART;VALUE=DATE;VALUE=DATE:20251105
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 10-2: Viewing WLAN Security [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727883
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T070000Z
+UID:event-assignment-737145
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab 12-1: Mobile Device Forensics [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737145
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T031600Z
+UID:event-assignment-736864
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:For your discussion post\, please complete either the "Linux fo
+ r Life" or "Reflection" activity found in the reading section of the modul
+ e.\n\nYour initial post is due on Friday by 11:59 PM\, and your three repl
+ ies are due by Sunday at 11:59 PM. Please review the rubric in the assignm
+ ent for details on grading requirements.
+SEQUENCE:0
+SUMMARY:Linux Chapter Five Discussion Post [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_736864
+X-ALT-DESC;FMTTYPE=text/html:<p>For your discussion post\, please complete 
+ either the "Linux for Life" or "Reflection" activity found in the reading 
+ section of the module.</p>\n<p>Your initial post is due on Friday by 11:59
+  PM\, and your three replies are due by Sunday at 11:59 PM. Please review 
+ the rubric in the assignment for details on grading requirements.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T060000Z
+UID:event-assignment-730830
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 5-1: Storage Management Concepts [25/FA CS
+ C-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730830
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T060000Z
+UID:event-assignment-730831
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 5-2: Logical Volume Manager Commands [25/F
+ A CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730831
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T070000Z
+UID:event-assignment-737158
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Module 12 Quiz [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737158
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T060000Z
+UID:event-assignment-730850
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Chapter 05 Linux Filesystem Administration [25/FA CSC-121-OL0
+ 1]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730850
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T060000Z
+UID:event-assignment-730872
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 5-1: Create Device Files [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730872
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T184100Z
+UID:event-assignment-727226
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:Critical Thinking Exercise: Moving to Green Computing\n\nYour o
+ rganization is a leader in the development of renewable energy sources bas
+ ed on enhanced geothermal systems and is viewed as a champion in the fight
+  to reduce carbon emissions. The organization employs over 25\,000 people 
+ worldwide and operates three global data centers\, one each in the United 
+ States\, Europe\, and Southeast Asia. The CEO has asked all her direct rep
+ orts for input on a proposed strategy to become a leader in green computin
+ g. In what ways is a move toward green computing consistent with your orga
+ nization's mission of developing renewable energy sources? One green compu
+ ting proposal is to consolidate the three data centers into one. Discuss t
+ he pros and cons of this approach. Can you identify any other tactics the 
+ organization might take to accelerate its move toward green computing? Ide
+ ntify the pros and cons or any issues associated with your proposed tactic
+ s.\n\nYour response needs to be a minimum of 2 complete paragraphs submitt
+ ed via word document and due Sunday by midnight.
+SEQUENCE:0
+SUMMARY:Week 12 Critical Thinking Assignment [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=11&year=2025#assignment_727226
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Critical Thinking Exercise: Moving 
+ to Green Computing</strong></p>\n<p>Your organization is a leader in the d
+ evelopment of renewable energy sources based on enhanced geothermal system
+ s and is viewed as a champion in the fight to reduce carbon emissions. The
+  organization employs over 25\,000 people worldwide and operates three glo
+ bal data centers\, one each in the United States\, Europe\, and Southeast 
+ Asia. The CEO has asked all her direct reports for input on a proposed str
+ ategy to become a leader in green computing. In what ways is a move toward
+  green computing consistent with your organization's mission of developing
+  renewable energy sources? One green computing proposal is to consolidate 
+ the three data centers into one. Discuss the pros and cons of this approac
+ h. Can you identify any other tactics the organization might take to accel
+ erate its move toward green computing? Identify the pros and cons or any i
+ ssues associated with your proposed tactics.</p>\n<p>Your response needs t
+ o be a minimum of 2 complete paragraphs submitted via word document and du
+ e Sunday by midnight.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T184100Z
+UID:event-assignment-727219
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:Please be sure to read through Chapter 10 before answering the 
+ below questions in your own words:\n\n1. Your own original post that answe
+ rs the question below: (Due Friday midnight) 5pts\n\n* What is the Gig ec
+ onomy?\n\n* How do you feel about the Gig economy?  Pros or cons\, expand
+  on your opinion\n\n* Do you feel that Whistle-Blower Protections go far e
+ nough?  Explain why or why not\n\n2. Reply to 2 classmates' posts. (Due S
+ unday midnight) 5pts\n\n \n\nRubric\n\nTo receive full credit\, your pos
+ t and reply must be...\n\n* At least three sentences in length (two paragr
+ aphs of at least 3 sentences each for the initial post)\n\n* Written in co
+ mplete\, grammatically correct sentences\n\n* Free from spelling errors\n\
+ n* An intelligent response
+SEQUENCE:0
+SUMMARY:Week 12 Discussion [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=11&year=2025#assignment_727219
+X-ALT-DESC;FMTTYPE=text/html:<p>Please be sure to read through Chapter 10 b
+ efore answering the below questions in your own words:</p><p><span>1. Your
+  own original post that answers the question below: (Due Friday midnight)&
+ nbsp\;</span><strong>5pts</strong></p><ul><li>What is the Gig economy?</li
+ ><li>How do you feel about the Gig economy?&nbsp\; Pros or cons\, expand o
+ n your opinion</li><li>Do you feel that Whistle-Blower Protections go far 
+ enough?&nbsp\; Explain why or why not</li></ul><p><span>2. Reply to 2 clas
+ smates' posts. (Due Sunday midnight)</span><span>&nbsp\;</span><strong>5pt
+ s</strong></p><p>&nbsp\;</p><p><em><span>Rubric</span></em></p><p>To recei
+ ve full credit\, your post and reply must be...</p><ul><li>At least three 
+ sentences in length (two paragraphs of at least 3 sentences each for the i
+ nitial post)</li><li>Written in complete\, grammatically correct sentences
+ </li><li>Free from spelling errors</li><li>An intelligent response</li></u
+ l>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T060000Z
+UID:event-assignment-737132
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:Class\,\n\nPlease be sure to read Module 12 and then answer the
+  questions below:\n\n* Describe what mobile device forensics is in your ow
+ n words.\n\n* Using this chapter and online resources\, list at least thre
+ e mobile device forensics tools/equipment and explain how they work in you
+ r own words. Be sure to cite sources where necessary.\n\n* In your own wor
+ ds\, what is the "Internet of Anything"?\n\nPlease respond with a minimum 
+ of two complete paragraphs. Your main post is due Friday by midnight\, and
+  your three replies minimum are due Sunday by midnight.
+SEQUENCE:0
+SUMMARY:Week 12 Discussion [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737132
+X-ALT-DESC;FMTTYPE=text/html:<p>Class\,</p>\n<p>Please be sure to read Modu
+ le 12 and then answer the questions below:</p>\n<ul>\n<li>Describe what mo
+ bile device forensics is in your own words.</li>\n<li>Using this chapter a
+ nd online resources\, list at least three mobile device forensics tools/eq
+ uipment and explain how they work in your own words. Be sure to cite sourc
+ es where necessary.</li>\n<li>In your own words\, what is the "Internet of
+  Anything"?</li>\n</ul>\n<p>Please respond with a minimum of two complete 
+ paragraphs. Your main post is due Friday by midnight\, and your three repl
+ ies minimum are due Sunday by midnight.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T184100Z
+UID:event-assignment-727203
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:please be sure to read chapter 10 and then begin the quiz\, you
+  get 2 attempts
+SEQUENCE:0
+SUMMARY:Week 12 Quiz [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=11&year=2025#assignment_727203
+X-ALT-DESC;FMTTYPE=text/html:<p>please be sure to read chapter 10 and then 
+ begin the quiz\, you get 2 attempts</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T201200Z
+UID:event-assignment-783285
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:9-2: Android Smartphone Emulation [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_783285
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T201200Z
+UID:event-assignment-783286
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:9-2: Troubleshoot Mobile Devices [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_783286
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T201300Z
+UID:event-assignment-783287
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:10-1: Install and Configure a Printer [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_783287
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T153200Z
+UID:event-assignment-783284
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:Complete the Chapter 9 & 10 quiz. There are 5 questions from ea
+ ch chapter. You get 2 attempts on the quiz and the highest grade will be r
+ ecorded. \n\nLooking up the answers is cheating. Read through the resourc
+ es in the module before taking it. 
+SEQUENCE:0
+SUMMARY:Chapter 9 & 10 Quiz [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_783284
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Complete the Chapter 9 &amp\; 10 quiz
+ . There are 5 questions from each chapter. You get 2 attempts on the quiz 
+ and the highest grade will be recorded.&nbsp\;</span></p>\n<p><span>Lookin
+ g up the answers is cheating. Read through the resources in the module bef
+ ore taking it.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T060000Z
+UID:event-assignment-767851
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:The Indispensability of Digital Signatures\n-------------------
+ -----------------------\n\nYou were introduced to digital signatures by hi
+ ghlighting why symmetric cryptography\, despite offering confidentiality a
+ nd message authentication\, falls short in practical scenarios. The car de
+ alership example\, where Bob denies ordering a pink-orange car\, vividly i
+ llustrates the critical problem of non-repudiation that symmetric schemes 
+ cannot resolve.\n\n* Discuss the core differences in security services pro
+ vided by symmetric cryptography (e.g.\, encryption with AES\, Message Auth
+ entication Codes or MACs) versus asymmetric digital signatures.\n\n* Beyon
+ d the car dealership scenario\, identify and explain at least two other re
+ al-world situations where the specific security services offered by digita
+ l signatures (especially non-repudiation\, message authentication\, and in
+ tegrity) are critically important\, and where symmetric-key solutions woul
+ d be inadequate or problematic.\n\nYour initial post should be at least tw
+ o paragraphs long\, with each containing four sentences. This is due by Fr
+ iday at 11:59 PM. A minimum of three replies is due Sunday evening by 11:5
+ 9 PM.\n\n \n\nWorks Cited:\n\nPaar\, C.\, Pelzl\, J.\, & Güneysu\, T. (2
+ 024). Understanding cryptography: From Established Symmetric and Asymmetri
+ c Ciphers to Post-Quantum Algorithms. Springer.
+SEQUENCE:0
+SUMMARY:Chapter 10 Discussion [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_767851
+X-ALT-DESC;FMTTYPE=text/html:<div class="paragraph normal ng-star-inserted"
+  data-start-index="224">\n<div class="paragraph normal ng-star-inserted" d
+ ata-start-index="310">\n<h3 class="paragraph heading3 ng-star-inserted" da
+ ta-start-index="200"><span class="ng-star-inserted" data-start-index="200"
+ >The Indispensability of Digital Signatures</span></h3>\n<div class="parag
+ raph normal ng-star-inserted" data-start-index="285"><span class="ng-star-
+ inserted" data-start-index="285">You were introduced to digital signatures
+  by highlighting why symmetric cryptography\, despite offering confidentia
+ lity and message authentication\, falls short in practical scenarios</span
+ ><span class="ng-star-inserted" data-start-index="475">. The </span><span 
+ class="ng-star-inserted">car dealership example</span><span class="ng-star
+ -inserted" data-start-index="503">\, where Bob denies ordering a pink-oran
+ ge car\, vividly illustrates the critical problem of </span><span class="n
+ g-star-inserted">non-repudiation</span><span class="ng-star-inserted" data
+ -start-index="609"> that symmetric schemes cannot resolve</span><span clas
+ s="ng-star-inserted" data-start-index="647">.</span></div>\n<ul>\n<li clas
+ s="paragraph normal ng-star-inserted" data-start-index="648"><span class="
+ ng-star-inserted">Discuss the core differences in security services provid
+ ed by symmetric cryptography (e.g.\, encryption with AES\, Message Authent
+ ication Codes or MACs) versus asymmetric digital signatures</span><span cl
+ ass="ng-star-inserted">.</span></li>\n<li class="paragraph normal ng-star-
+ inserted" data-start-index="836"><span class="ng-star-inserted">Beyond the
+  car dealership scenario\, identify and explain at least two other real-wo
+ rld situations where the specific security services offered by digital sig
+ natures (especially non-repudiation\, message authentication\, and integri
+ ty) are critically important\, and where symmetric-key solutions would be 
+ inadequate or problematic</span><span class="ng-star-inserted">.</span></l
+ i>\n</ul>\n</div>\n</div>\n<p><span class="ng-star-inserted">Your initial 
+ post should be at least two paragraphs long\, with each containing four se
+ ntences. This is due by Friday at 11:59 PM. A minimum of three replies is 
+ due Sunday evening by 11:59 PM.</span></p>\n<p>&nbsp\;</p>\n<p>Works Cited
+ :</p>\n<div>\n<p>Paar\, C.\, Pelzl\, J.\, &amp\; Güneysu\, T. (2024). <i>
+ Understanding cryptography: From Established Symmetric and Asymmetric Ciph
+ ers to Post-Quantum Algorithms</i>. Springer.</p>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T060000Z
+UID:event-assignment-767853
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 10 Quiz [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_767853
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T060000Z
+UID:event-assignment-767852
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:The RSA Digital Signature Scheme\n-----------------------------
+ ---\n\nThe RSA digital signature scheme is a widely adopted method based o
+ n public-key cryptography\, whose security relies on the hardness of the i
+ nteger factorization problem.\n\n* Explain the step-by-step process of the
+  "schoolbook" RSA digital signature protocol\, covering both how a message
+  is signed by the sender and how the signature is verified by the receiver
+ . Clearly articulate the role of the private and public keys in this proce
+ ss\, highlighting how their usage differs from RSA encryption.\n\n* Analyz
+ e the practical computational aspects of RSA digital signatures\, includin
+ g signature length and the significant impact of using short public expone
+ nts for verification in real-world applications like Public-Key Infrastruc
+ tures (PKIs).\n\n* Discuss the security considerations of the RSA digital 
+ signature scheme\, specifically addressing how messages of arbitrary lengt
+ h are handled in practice (i.e.\, through the use of hash functions and pa
+ dding) and on which fundamental mathematical problem its security relies. 
+ Conclude by briefly mentioning the future threat posed by large-scale quan
+ tum computers to RSA.\n\nYour essay should draw directly from both the pro
+ vided source material and external sources. Cite your work appropriately t
+ o support your arguments and offer detailed explanations of the cryptograp
+ hic concepts involved.  The assignment should be at a minimum of three pa
+ ges and in APA format.\n\nSubmit your work as either a Word Document or a 
+ PDF. Ensure you follow the rubric.
+SEQUENCE:0
+SUMMARY:Chapter 10 Writing Assignment [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_767852
+X-ALT-DESC;FMTTYPE=text/html:<div class="paragraph normal ng-star-inserted"
+  data-start-index="274">\n<h3 class="paragraph heading3 ng-star-inserted" 
+ data-start-index="1246"><span class="ng-star-inserted" data-start-index="1
+ 246">The RSA Digital Signature Scheme</span></h3>\n<div class="paragraph h
+ eading3 ng-star-inserted" data-start-index="1246"><span class="ng-star-ins
+ erted" data-start-index="1316">The RSA digital signature scheme is a widel
+ y adopted method based on public-key cryptography\, whose security relies 
+ on the hardness of the integer factorization problem</span><span class="ng
+ -star-inserted" data-start-index="1503">.</span></div>\n<ul>\n<li class="p
+ aragraph normal ng-star-inserted" data-start-index="1504"><span class="ng-
+ star-inserted">Explain the step-by-step process of the "schoolbook" RSA di
+ gital signature protocol\, covering both how a message is signed by the se
+ nder and how the signature is verified by the receiver</span><span class="
+ ng-star-inserted">. Clearly articulate the role of the private and public 
+ keys in this process\, highlighting how their usage differs from RSA encry
+ ption</span><span class="ng-star-inserted">.</span></li>\n<li class="parag
+ raph normal ng-star-inserted" data-start-index="1825"><span class="ng-star
+ -inserted">Analyze the practical computational aspects of RSA digital sign
+ atures\, including signature length and the significant impact of using sh
+ ort public exponents for verification in real-world applications like Publ
+ ic-Key Infrastructures (PKIs)</span><span class="ng-star-inserted">.</span
+ ></li>\n<li class="paragraph normal ng-star-inserted" data-start-index="18
+ 25"><span class="ng-star-inserted">Discuss the security considerations of 
+ the RSA digital signature scheme\, specifically addressing how messages of
+  arbitrary length are handled in practice (i.e.\, through the use of hash 
+ functions and padding) and on which fundamental mathematical problem its s
+ ecurity relies</span><span class="ng-star-inserted">. Conclude by briefly 
+ mentioning the future threat posed by large-scale quantum computers to RSA
+ </span><span class="ng-star-inserted">.</span></li>\n</ul>\n<div class="pa
+ ragraph normal ng-star-inserted" data-start-index="2811"><span class="ng-s
+ tar-inserted" data-start-index="2811">Your essay </span><span style="font-
+ family: inherit\; font-size: 1rem\;">should draw directly from both the pr
+ ovided source material and external sources. Cite your work appropriately 
+ to support your arguments and offer detailed explanations of the cryptogra
+ phic concepts involved.&nbsp\; The assignment should be at a minimum of th
+ ree pages and in APA format.</span></div>\n</div>\n<div class="paragraph n
+ ormal ng-star-inserted" data-start-index="274">Submit your work as either 
+ a Word Document or a PDF. Ensure you follow the rubric.</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T233500Z
+UID:event-assignment-727835
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:All discussions must be submitted every Sunday at 6:00 p.m. (th
+ is includes original postings and replies) for attendance purposes.\n\nDis
+ cussion posts should be a paragraph or more and should fully answer the qu
+ estions provided. Please make your initial post by Friday and respond to a
+ t least 2 other students by Sunday.\n\nThis week's questions:\n\n* Discuss
+ ion: Cloud\, Hybrid\, or On-Premises? Duration: 25 minutes.\n\n* While clo
+ ud computing is a growing technology\, there are some detractors.\n\n* Wha
+ t are some of the pros and cons of using cloud computing and are concerns 
+ about its privacy and security valid? Compare the security concerns of usi
+ ng an all-cloud model where all critical resources including desktop OSs a
+ re housed in the cloud versus a hybrid model where some resources are in t
+ he cloud and some are on-premises versus an all on-premises model.\n\nPost
+ ing Criteria and Grading \n\nInitial discussion post (8 sentences)\n\n60%
+  of overall credit\n\n2 replies to one other students (5 sentences each) 3
+ 0% each\n\n30% of overall credit\n\nGrammar/spelling\n\n10% of overall cre
+ dit\n\n 
+SEQUENCE:0
+SUMMARY:Discussion 11 [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727835
+X-ALT-DESC;FMTTYPE=text/html:<header class="discussion-section clearfix">\n
+ <div class="discussion-header-content right-of-avatar">\n<div class="pull-
+ left">\n<p><span style="background-color: #ecf0f1\; font-size: 14pt\;"><st
+ rong style="color: #e03e2d\;">All discussions must be submitted every Sund
+ ay at 6:00 p.m. (this includes original postings and replies) for </strong
+ ><span style="color: #e03e2d\;"><strong>attendance</strong></span><strong 
+ style="color: #e03e2d\;"> purposes.</strong></span><strong></strong></p>\n
+ <p>Discussion posts should be a paragraph or more and should fully answer 
+ the questions provided. Please make your initial post by Friday and respon
+ d to at least 2 other students by Sunday.</p>\n<p><strong>This week's ques
+ tions:</strong></p>\n<ol>\n<li>Discussion: Cloud\, Hybrid\, or On-Premises
+ ? Duration: 25 minutes.\n<ol>\n<li>While cloud computing is a growing tech
+ nology\, there are some detractors.</li>\n<li>What are some of the pros an
+ d cons of using cloud computing and are concerns about its privacy and sec
+ urity valid? Compare the security concerns of using an all-cloud model whe
+ re all critical resources including desktop OSs are housed in the cloud ve
+ rsus a hybrid model where some resources are in the cloud and some are on-
+ premises versus an all on-premises model.</li>\n</ol>\n</li>\n</ol>\n</div
+ >\n</div>\n</header>\n<div class="discussion-section message_wrapper">\n<d
+ iv class="message user_content enhanced" data-bind="message">\n<p><strong>
+ Posting Criteria and Grading&nbsp\;</strong><strong></strong></p>\n<table 
+ style="border-collapse: collapse\; width: 58.148%\; height: 111px\;" borde
+ r="1">\n<tbody>\n<tr style="height: 29px\;">\n<td style="width: 49.9483%\;
+  height: 29px\;">Initial discussion post (8 sentences)</td>\n<td style="wi
+ dth: 49.9483%\; height: 29px\;">60% of overall credit</td>\n</tr>\n<tr sty
+ le="height: 53px\;">\n<td style="width: 49.9483%\; height: 53px\;">2 repli
+ es to one other students (5 sentences each) 30% each</td>\n<td style="widt
+ h: 49.9483%\; height: 53px\;">30% of overall credit</td>\n</tr>\n<tr style
+ ="height: 29px\;">\n<td style="width: 49.9483%\; height: 29px\;">Grammar/s
+ pelling</td>\n<td style="width: 49.9483%\; height: 29px\;">10% of overall 
+ credit</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp\;</p>\n</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T201400Z
+UID:event-assignment-783288
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:Lab 10-4: Troubleshoot a Printer [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_783288
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T060000Z
+UID:event-assignment-741499
+DTSTART;VALUE=DATE;VALUE=DATE:20251109
+CLASS:PUBLIC
+DESCRIPTION:Choose two of the provided essay prompts based on Chapter 11 of
+  the Guide to Computer Forensics and Investigations. For each prompt you s
+ elect\, write a comprehensive\, well-structured essay of at least one full
+  page using APA format. Your response must be based on the information and
+  concepts presented in the first chapter of the provided text. The use of 
+ external sources is encouraged\; however\, please review the policy on usi
+ ng AI in the syllabus for guidance. As a reminder\, your work will be auto
+ matically checked for AI generation. Ensure that you use proper citations 
+ for all works used\, including the textbook.\n\nSubmit your assignment in 
+ a single file\, using either a Word (.doc\, .docx) or PDF format.\n\n*\n\n
+ Mobile Device Seizure and Isolation: Detail the critical first steps an in
+ vestigator must take when seizing a mobile device at a crime scene. Explai
+ n the primary concerns—loss of power\, remote wiping\, and network synch
+ ronization—and describe the different methods for isolating a device fro
+ m the network\, along with the pros and cons of each method.\n\n*\n\nMobil
+ e Acquisition Methods: Compare and contrast the six types of mobile forens
+ ics methods outlined by NIST: manual\, logical\, physical\, hex dumping/JT
+ AG\, chip-off\, and micro read. Explain what kind of data can be expected 
+ from each method and the circumstances that would dictate which method is 
+ most appropriate.\n\n*\n\nThe Role of the SIM Card: Describe the function 
+ and structure of a Subscriber Identity Module (SIM) card in a GSM device. 
+ Explain the hierarchical file system of a SIM card (MF\, DF\, EF) and deta
+ il the four categories of information that can be retrieved from it. What 
+ precautions must an investigator take when using a SIM card reader?\n\n*\n
+ \nThe Evolution of Cellular Networks: Trace the evolution of mobile phone 
+ networks from 3G to 4G and the upcoming 5G standard. Explain the differenc
+ es between the two main network technologies\, CDMA and GSM. How does an u
+ nderstanding of this underlying infrastructure (BTS\, BSC\, MSC) aid an in
+ vestigator in obtaining evidence from service providers?\n\n*\n\nThe Inter
+ net of Anything (IoA) Challenge: Define the Internet of Anything (IoA) and
+  explain the new forensic challenges it presents. Discuss the difficulties
+  of acquiring data from a wide array of interconnected devices like smart 
+ home appliances\, wearable technology\, and vehicle systems. Why is determ
+ ining data reliability and dealing with limited data retention on these de
+ vices a major concern for investigators?
+SEQUENCE:0
+SUMMARY:Module 12 Essay [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_741499
+X-ALT-DESC;FMTTYPE=text/html:<p>Choose two of the provided essay prompts ba
+ sed on Chapter 11 of the Guide to Computer Forensics and Investigations. F
+ or each prompt you select\, write a comprehensive\, well-structured essay 
+ of at least one full page using APA format. Your response must be based on
+  the information and concepts presented in the first chapter of the provid
+ ed text. The use of external sources is encouraged\; however\, please revi
+ ew the policy on using AI in the syllabus for guidance. <span>As a reminde
+ r\, your work will be automatically checked for AI generation. Ensure that
+  you use proper citations for all works used\, including the textbook.</sp
+ an></p>\n<p>Submit your assignment in a single file\, using either a Word 
+ (.doc\, .docx) or PDF format.</p>\n<ol style="list-style-type: decimal\;">
+ \n<li>\n<p><strong>Mobile Device Seizure and Isolation:</strong> Detail th
+ e critical first steps an investigator must take when seizing a mobile dev
+ ice at a crime scene. Explain the primary concerns—loss of power\, remot
+ e wiping\, and network synchronization—and describe the different method
+ s for isolating a device from the network\, along with the pros and cons o
+ f each method.</p>\n</li>\n<li>\n<p><strong>Mobile Acquisition Methods: </
+ strong>Compare and contrast the six types of mobile forensics methods outl
+ ined by NIST: manual\, logical\, physical\, hex dumping/JTAG\, chip-off\, 
+ and micro read. Explain what kind of data can be expected from each method
+  and the circumstances that would dictate which method is most appropriate
+ .</p>\n</li>\n<li>\n<p><strong>The Role of the SIM Card: </strong>Describe
+  the function and structure of a Subscriber Identity Module (SIM) card in 
+ a GSM device. Explain the hierarchical file system of a SIM card (MF\, DF\
+ , EF) and detail the four categories of information that can be retrieved 
+ from it. What precautions must an investigator take when using a SIM card 
+ reader?</p>\n</li>\n<li>\n<p><strong>The Evolution of Cellular Networks: <
+ /strong>Trace the evolution of mobile phone networks from 3G to 4G and the
+  upcoming 5G standard. Explain the differences between the two main networ
+ k technologies\, CDMA and GSM. How does an understanding of this underlyin
+ g infrastructure (BTS\, BSC\, MSC) aid an investigator in obtaining eviden
+ ce from service providers?</p>\n</li>\n<li>\n<p><strong>The Internet of An
+ ything (IoA) Challenge: </strong>Define the Internet of Anything (IoA) and
+  explain the new forensic challenges it presents. Discuss the difficulties
+  of acquiring data from a wide array of interconnected devices like smart 
+ home appliances\, wearable technology\, and vehicle systems. Why is determ
+ ining data reliability and dealing with limited data retention on these de
+ vices a major concern for investigators?</p>\n</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T130500Z
+UID:event-assignment-727875
+DTSTART;VALUE=DATE;VALUE=DATE:20251112
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Module 11 Cloud and Virtualization Security [25/FA CIS-616-OL
+ 01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727875
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T130500Z
+UID:event-assignment-727884
+DTSTART;VALUE=DATE;VALUE=DATE:20251112
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 11-1: Install Fedora VM [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727884
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T130500Z
+UID:event-assignment-727885
+DTSTART;VALUE=DATE;VALUE=DATE:20251112
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 11-2: Install Windows 11 VM [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727885
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251113T161400Z
+UID:event-assignment-737142
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab 1-1: Understanding the Digital Forensics Profession and Investi
+ gation [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737142
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251113T161400Z
+UID:event-assignment-737150
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab 3-1: Data Acquisition [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737150
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251113T161600Z
+UID:event-assignment-737151
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab 4-1: Processing Crime and Incident Scenes [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737151
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251113T161600Z
+UID:event-assignment-737152
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab 5-1: Working with Windows and CLI Systems [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737152
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T070000Z
+UID:event-assignment-737146
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab 13-1: Cloud Forensics [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737146
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T033000Z
+UID:event-assignment-736865
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:For your discussion post\, please complete either the "Linux fo
+ r Life" or "Reflection" activity found in the reading section of the modul
+ e.\n\nYour initial post is due on Friday by 11:59 PM\, and your three repl
+ ies are due by Sunday at 11:59 PM. Please review the rubric in the assignm
+ ent for details on grading requirements.
+SEQUENCE:0
+SUMMARY:Linux Chapter Seven Discussion Post [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_736865
+X-ALT-DESC;FMTTYPE=text/html:<p>For your discussion post\, please complete 
+ either the "Linux for Life" or "Reflection" activity found in the reading 
+ section of the module.</p>\n<p>Your initial post is due on Friday by 11:59
+  PM\, and your three replies are due by Sunday at 11:59 PM. Please review 
+ the rubric in the assignment for details on grading requirements.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T060000Z
+UID:event-assignment-730835
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 7-1: Linux Scripting Techniques [25/FA CSC
+ -121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730835
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T060000Z
+UID:event-assignment-730836
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 7-2: Versioning Control using GIT [25/FA C
+ SC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730836
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T060000Z
+UID:event-assignment-737133
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:Class\,\n\nBe sure to read Module 13 Chapter and then review th
+ e discussion questions below:\n\n* In your own words\, how would you descr
+ ibe cloud computing to someone?\n\n* What are the pros and cons of securin
+ g data in the cloud?\n\n* Research at least one article online related to 
+ cloud computing security and then summarize in your own words how this rel
+ ates to our chapter.  Be sure to cite your sources and link the article.\
+ n\nYour main post needs at least two complete paragraphs and is due Friday
+  by midnight\, and your three reply minimum is due Sunday by midnight.
+SEQUENCE:0
+SUMMARY:Module 13 Discussion [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737133
+X-ALT-DESC;FMTTYPE=text/html:<p>Class\,</p>\n<p>Be sure to read Module 13 C
+ hapter and then review the discussion questions below:</p>\n<ul>\n<li>In y
+ our own words\, how would you describe cloud computing to someone?</li>\n<
+ li>What are the pros and cons of securing data in the cloud?</li>\n<li>Res
+ earch at least one article online related to cloud computing security and 
+ then summarize in your own words how this relates to our chapter.&nbsp\; B
+ e sure to cite your sources and link the article.</li>\n</ul>\n<p>Your mai
+ n post needs at least two complete paragraphs and is due Friday by midnigh
+ t\, and your three reply minimum is due Sunday by midnight.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T070000Z
+UID:event-assignment-737159
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Module 13 Quiz [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737159
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T060000Z
+UID:event-assignment-730851
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Chapter 07 Working with the Shell [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730851
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T060000Z
+UID:event-assignment-730873
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 7-1: Set Up and Use the Z Shell [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730873
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T195900Z
+UID:event-assignment-727227
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:Class\n\nYour assignment this week is to research a minimum of 
+ 2 different kinds of Cyber Forensics Tools\, this will require you to goog
+ le information online and cite your sources.  I would like at least 1 par
+ agraph summarizing each type of cyber forensics tool that you find and you
+  can include things such as the following:\n\n* The name of this produce a
+ nd how long has it been around?\n\n* What makes this forensics tool specia
+ l or unique?\n\n* Why would you recommend a cyber security professional ha
+ ve this forensics tool on their computer?\n\n* what else would you like to
+  mention about this?\n\nSo to reiterate you should end up with a minimum o
+ f 2 complete paragraphs summarizing 2 different software tools for cyber f
+ orensics and cite your sources.  \n\nthis must be submitted in a .doc or
+  .docx word file format no later than Sunday by midnight
+SEQUENCE:0
+SUMMARY:Week 13 Assignment [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=11&year=2025#assignment_727227
+X-ALT-DESC;FMTTYPE=text/html:<p>Class</p>\n<p>Your assignment this week is 
+ to research a minimum of 2 different kinds of Cyber Forensics Tools\, this
+  will require you to google information online and cite your sources.&nbsp
+ \; I would like at least 1 paragraph summarizing each type of cyber forens
+ ics tool that you find and you can include things such as the following:</
+ p>\n<ul>\n<li>The name of this produce and how long has it been around?</l
+ i>\n<li>What makes this forensics tool special or unique?</li>\n<li>Why wo
+ uld you recommend a cyber security professional have this forensics tool o
+ n their computer?</li>\n<li>what else would you like to mention about this
+ ?</li>\n</ul>\n<p>So to reiterate you should end up with a minimum of 2 co
+ mplete paragraphs summarizing 2 different software tools for cyber forensi
+ cs and cite your sources.&nbsp\;&nbsp\;</p>\n<p>this must be submitted in 
+ a .doc or .docx word file format no later than Sunday by midnight</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T195900Z
+UID:event-assignment-727220
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:1. Your own original post that answers the question below: (Due
+  Friday midnight) 5pts\n\n* What do you think the future of cyber investi
+ gation tools will include?\n\n* how do you think they will work?\n\n* What
+  kinds of ethical dilemmas and professional responsibility do cyber securi
+ ty experts have when using these kinds of tools?\n\n2. Reply to 2 classmat
+ es' posts. (Due Sunday midnight) 5pts\n\n \n\nRubric\n\nTo receive full 
+ credit\, your post and reply must be...\n\n* At least three sentences in l
+ ength (two paragraphs of at least 3 sentences each for the initial post)\n
+ \n* Written in complete\, grammatically correct sentences\n\n* Free from s
+ pelling errors\n\n* An intelligent response\n\n 
+SEQUENCE:0
+SUMMARY:Week 13 Discussion [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=11&year=2025#assignment_727220
+X-ALT-DESC;FMTTYPE=text/html:<p><span>1. Your own original post that answer
+ s the question below: (Due Friday midnight)&nbsp\;</span><strong>5pts</str
+ ong></p><ul><li>What do you think the future of cyber investigation tools 
+ will include?<ul><li>how do you think they will work?</li></ul></li><li>Wh
+ at kinds of ethical dilemmas and professional responsibility do cyber secu
+ rity experts have when using these kinds of tools?</li></ul><p><span>2. Re
+ ply to 2 classmates' posts. (Due Sunday midnight)</span><span>&nbsp\;</spa
+ n><strong>5pts</strong></p><p>&nbsp\;</p><p><em><span>Rubric</span></em></
+ p><p>To receive full credit\, your post and reply must be...</p><ul><li>At
+  least three sentences in length (two paragraphs of at least 3 sentences e
+ ach for the initial post)</li><li>Written in complete\, grammatically corr
+ ect sentences</li><li>Free from spelling errors</li><li>An intelligent res
+ ponse</li></ul><p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T060000Z
+UID:event-assignment-767854
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:The Necessity of Hash Functions in Digital Signatures\n--------
+ ---------------------------------------------\n\nThe text highlights criti
+ cal issues that arise when attempting to digitally sign long messages dire
+ ctly using schemes like RSA. These issues include significant bandwidth ov
+ erhead and inherent security vulnerabilities that could allow attackers to
+  manipulate signed documents by reordering or removing blocks\, even if in
+ dividual blocks are cryptographically protected. Hash functions are presen
+ ted as the elegant solution\, creating a fixed-length "digital fingerprint
+ " that is then signed instead of the entire message.\n\nConsider the impli
+ cations of these challenges and the solution offered by hash functions:\n\
+ n* Beyond the stated "bandwidth overhead" and "security limitations"\, dis
+ cuss in detail why directly signing a long message block-by-block is funda
+ mentally flawed from a security perspective. Provide a concrete\, imaginat
+ ive example of an attack scenario that exploits the ability to reorder or 
+ remove signed blocks.\n\n* How does the "digital fingerprint" property of 
+ hash functions not only solve the length and integrity problems but also c
+ ontribute to the non-repudiation service discussed last week?\n\n* Can you
+  think of any scenarios where the original\, "schoolbook" method of signin
+ g entire messages directly might still be acceptably secure\, perhaps due 
+ to specific application constraints or short message lengths? Justify your
+  reasoning.\n\nYour initial post should be at least two paragraphs long\, 
+ with each containing four sentences. This is due by Friday at 11:59 PM. A 
+ minimum of three replies is due Sunday evening by 11:59 PM.\n\n \n\nWorks
+  Cited:\n\nPaar\, C.\, Pelzl\, J.\, & Güneysu\, T. (2024). Understanding 
+ cryptography: From Established Symmetric and Asymmetric Ciphers to Post-Qu
+ antum Algorithms. Springer.
+SEQUENCE:0
+SUMMARY:Chapter 11 Discussion [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_767854
+X-ALT-DESC;FMTTYPE=text/html:<div class="paragraph normal ng-star-inserted"
+  data-start-index="224">\n<div class="paragraph normal ng-star-inserted" d
+ ata-start-index="310">\n<h3 class="paragraph heading3 ng-star-inserted" da
+ ta-start-index="200">The Necessity of Hash Functions in Digital Signatures
+ </h3>\n<div class="paragraph normal ng-star-inserted" data-start-index="28
+ 5">\n<div class="paragraph normal ng-star-inserted" data-start-index="264"
+ ><span class="ng-star-inserted" data-start-index="264">The text highlights
+  critical issues that arise when attempting to digitally sign long message
+ s directly using schemes like RSA</span><span class="ng-star-inserted" dat
+ a-start-index="432">. These issues include </span><span class="ng-star-ins
+ erted">significant bandwidth overhead</span><span class="ng-star-inserted"
+  data-start-index="485"> and </span><span class="ng-star-inserted">inheren
+ t security vulnerabilities</span><span class="ng-star-inserted" data-start
+ -index="523"> that could allow attackers to manipulate signed documents by
+  reordering or removing blocks\, even if individual blocks are cryptograph
+ ically protected</span><span class="ng-star-inserted" data-start-index="67
+ 3">. Hash functions are presented as the elegant solution\, creating a </s
+ pan><span class="ng-star-inserted">fixed-length "digital fingerprint"</spa
+ n><span class="ng-star-inserted" data-start-index="774"> that is then sign
+ ed instead of the entire message</span><span class="ng-star-inserted" data
+ -start-index="824">.</span></div>\n<div class="paragraph normal ng-star-in
+ serted" data-start-index="825"><span class="ng-star-inserted" data-start-i
+ ndex="825">Consider the implications of these challenges and the solution 
+ offered by hash functions:</span></div>\n<ul>\n<li class="paragraph normal
+  ng-star-inserted" data-start-index="914"><span class="ng-star-inserted" d
+ ata-start-index="914">Beyond the stated "bandwidth overhead" and "security
+  limitations"</span><span class="ng-star-inserted" data-start-index="979">
+ \, discuss in detail </span><i class="ng-star-inserted" data-start-index="
+ 999">why</i><span class="ng-star-inserted" data-start-index="1002"> direct
+ ly signing a long message block-by-block is fundamentally flawed from a se
+ curity perspective. Provide a concrete\, imaginative example of an attack 
+ scenario that exploits the ability to reorder or remove signed blocks.</sp
+ an></li>\n<li class="paragraph normal ng-star-inserted" data-start-index="
+ 1226"><span class="ng-star-inserted" data-start-index="1226">How does the 
+ "digital fingerprint" property of hash functions</span><span class="ng-sta
+ r-inserted" data-start-index="1287"> not only solve the length and integri
+ ty problems but also contribute to the non-repudiation service discussed l
+ ast week</span><span class="ng-star-inserted" data-start-index="1411">?</s
+ pan></li>\n<li class="paragraph normal ng-star-inserted" data-start-index=
+ "1412"><span class="ng-star-inserted" data-start-index="1412">Can you thin
+ k of any scenarios where the original\, "schoolbook" method of signing ent
+ ire messages directly might still be acceptably secure\, perhaps due to sp
+ ecific application constraints or short message lengths? Justify your reas
+ oning.</span></li>\n</ul>\n</div>\n</div>\n</div>\n<p><span class="ng-star
+ -inserted">Your initial post should be at least two paragraphs long\, with
+  each containing four sentences. This is due by Friday at 11:59 PM. A mini
+ mum of three replies is due Sunday evening by 11:59 PM.</span></p>\n<p>&nb
+ sp\;</p>\n<p>Works Cited:</p>\n<div>\n<p>Paar\, C.\, Pelzl\, J.\, &amp\; G
+ üneysu\, T. (2024). <i>Understanding cryptography: From Established Symme
+ tric and Asymmetric Ciphers to Post-Quantum Algorithms</i>. Springer.</p>\
+ n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T060000Z
+UID:event-assignment-767856
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 11 Quiz [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_767856
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T060000Z
+UID:event-assignment-767855
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:Design Principles and Security Implications of Hash Algorithms\
+ n--------------------------------------------------------------\n\nIn your
+  text\, the section "Overview of Hash Algorithms\," categorizes them into 
+ dedicated hash functions and block cipher-based constructions\, and introd
+ uces fundamental design principles like the Merkle–Damgård and sponge c
+ onstructions. It also discusses the critical security implications related
+  to output length\, particularly concerning collision resistance and the B
+ irthday Attack. Write an essay that addresses the following points:\n\n* C
+ ompare and contrast the Merkle–Damgård construction (used by SHA-1 and 
+ SHA-2) with the sponge construction (used by SHA-3). Discuss the philosoph
+ ical differences in their design approach and how these might influence th
+ eir versatility or resistance to future attacks.\n\n* Analyze the trade-of
+ fs involved in constructing hash functions from existing block ciphers (e.
+ g.\, Matyas–Meyer–Oseas\, Davies–Meyer\, Miyaguchi–Preneel) versus
+  designing dedicated hash functions (e.g.\, SHA family). Highlight the sec
+ urity vulnerabilities that arise when block cipher-based hashes have outpu
+ t lengths equal to common block cipher widths (e.g.\, 128 bits for AES) wh
+ en aiming for collision resistance\, explaining the role of the Birthday A
+ ttack and why 256 bits or more are recommended for security against it.\n\
+ n* Discuss the significance of the SHA-3 competition and its outcome. Why 
+ did NIST decide to develop SHA-3 as an alternative to SHA-2 with a dissimi
+ lar internal design\, rather than a direct replacement? How does the SHA-3
+  family's support for various output lengths and the Extendable-Output Fun
+ ction (XOF) functionality demonstrate a forward-looking design philosophy 
+ compared to SHA-1 and SHA-2?\n\nYour essay should demonstrate a clear unde
+ rstanding of the cryptographic concepts\, design choices\, and security co
+ nsiderations\, drawing directly from both the provided source material and
+  external sources. Cite your work appropriately to support your arguments 
+ and offer detailed explanations of the cryptographic concepts involved.  
+ The assignment should be at a minimum of three pages and in APA format.\n\
+ nSubmit your work as either a Word Document or a PDF. Ensure you follow th
+ e rubric.
+SEQUENCE:0
+SUMMARY:Chapter 11 Writing Assignment [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_767855
+X-ALT-DESC;FMTTYPE=text/html:<div class="paragraph normal ng-star-inserted"
+  data-start-index="274">\n<h3 class="paragraph heading3 ng-star-inserted" 
+ data-start-index="1246">Design Principles and Security Implications of Has
+ h Algorithms</h3>\n<div class="paragraph heading3 ng-star-inserted" data-s
+ tart-index="1246">\n<div class="paragraph normal ng-star-inserted" data-st
+ art-index="1866"><span class="ng-star-inserted" data-start-index="1866">In
+  your text\, the section "Overview of Hash Algorithms\," categorizes them 
+ into dedicated hash functions and block cipher-based constructions\, and i
+ ntroduces fundamental design principles like the Merkle–Damgård and spo
+ nge constructions</span><span class="ng-star-inserted" data-start-index="2
+ 102">. It also discusses the critical security implications related to out
+ put length\, particularly concerning collision resistance and the Birthday
+  Attack</span><span class="ng-star-inserted" data-start-index="2251">. </s
+ pan><span class="ng-star-inserted" data-start-index="2252">Write an essay 
+ that addresses the following points:</span></div>\n<ul>\n<li class="paragr
+ aph normal ng-star-inserted" data-start-index="2303"><span class="ng-star-
+ inserted" data-start-index="2303">Compare and contrast the </span><span cl
+ ass="ng-star-inserted">Merkle–Damgård construction</span><span class="n
+ g-star-inserted" data-start-index="2355"> (used by SHA-1 and SHA-2) with t
+ he </span><span class="ng-star-inserted">sponge construction</span><span c
+ lass="ng-star-inserted" data-start-index="2410"> (used by SHA-3)</span><sp
+ an class="ng-star-inserted" data-start-index="2426">. Discuss the philosop
+ hical differences in their design approach and how these might influence t
+ heir versatility or resistance to future attacks.</span></li>\n<li class="
+ paragraph normal ng-star-inserted" data-start-index="2571"><span class="ng
+ -star-inserted" data-start-index="2571">Analyze the trade-offs involved in
+  constructing hash functions from </span><span class="ng-star-inserted">ex
+ isting block ciphers</span><span class="ng-star-inserted" data-start-index
+ ="2661"> (e.g.\, Matyas–Meyer–Oseas\, Davies–Meyer\, Miyaguchi–Pre
+ neel) versus designing </span><span class="ng-star-inserted">dedicated has
+ h functions</span><span class="ng-star-inserted" data-start-index="2763"> 
+ (e.g.\, SHA family)</span><span class="ng-star-inserted" data-start-index=
+ "2782">. Highlight the security vulnerabilities that arise when block ciph
+ er-based hashes have output lengths equal to common block cipher widths (e
+ .g.\, 128 bits for AES) when aiming for collision resistance\, explaining 
+ the role of the </span><span class="ng-star-inserted">Birthday Attack</spa
+ n><span class="ng-star-inserted" data-start-index="3026"> and why </span><
+ span class="ng-star-inserted">256 bits or more</span><span class="ng-star-
+ inserted" data-start-index="3051"> are recommended for security against it
+ </span><span class="ng-star-inserted" data-start-index="3091">.</span></li
+ >\n<li class="paragraph normal ng-star-inserted" data-start-index="3092"><
+ span class="ng-star-inserted" data-start-index="3092">Discuss the signific
+ ance of the </span><span class="ng-star-inserted">SHA-3 competition</span>
+ <span class="ng-star-inserted" data-start-index="3141"> and its outcome</s
+ pan><span class="ng-star-inserted" data-start-index="3157">. Why did NIST 
+ decide to develop SHA-3 as an </span><i class="ng-star-inserted" data-star
+ t-index="3202">alternative</i><span class="ng-star-inserted" data-start-in
+ dex="3213"> to SHA-2 with a dissimilar internal design\, rather than a dir
+ ect </span><i class="ng-star-inserted" data-start-index="3279">replacement
+ </i><span class="ng-star-inserted" data-start-index="3290">? How does the 
+ SHA-3 family's support for various output lengths and the </span><span cla
+ ss="ng-star-inserted">Extendable-Output Function (XOF) functionality</span
+ ><span class="ng-star-inserted" data-start-index="3409"> demonstrate a for
+ ward-looking design philosophy compared to SHA-1 and SHA-2?</span></li>\n<
+ /ul>\n<div class="paragraph normal ng-star-inserted" data-start-index="348
+ 6"><span class="ng-star-inserted" data-start-index="3486">Your essay shoul
+ d demonstrate a clear understanding of the cryptographic concepts\, design
+  choices\, and security considerations\, </span><span style="font-family: 
+ inherit\; font-size: 1rem\;">drawing directly from both the provided sourc
+ e material and external sources. Cite your work appropriately to support y
+ our arguments and offer detailed explanations of the cryptographic concept
+ s involved.&nbsp\; The assignment should be at a minimum of three pages an
+ d in APA format.</span></div>\n</div>\n</div>\n<div class="paragraph norma
+ l ng-star-inserted" data-start-index="274">Submit your work as either a Wo
+ rd Document or a PDF. Ensure you follow the rubric.</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T132600Z
+UID:event-assignment-727840
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:All discussions must be submitted every Sunday at 6:00 p.m. (th
+ is includes original postings and replies) for attendance purposes.\n\nDis
+ cussion posts should be a paragraph or more and should fully answer the qu
+ estions provided. Please make your initial post by Friday and respond to a
+ t least 2 other students by Sunday.\n\nThis week's questions:\n\n* Discuss
+ ion: Penetration Testing: Internal vs External. \n\n* When planning to pe
+ rform a penetration test\, an organization must decide whether to use inte
+ rnal security personnel or external consultants to conduct the test.\n\n* 
+ What are the advantages and disadvantages of using internal vs external te
+ sters?\n\nPosting Criteria and Grading \n\nInitial discussion post (8 sen
+ tences)\n\n60% of overall credit\n\n2 replies to two other students (5 sen
+ tences each) 30% each\n\n30% of overall credit\n\nGrammar/spelling\n\n10% 
+ of overall credit\n\nTo submit your responses to the questions\, follow th
+ e steps below:\n\n* Click Reply at the bottom\, and post your responses t
+ o both questions in the same thread.  Be sure to click Post Reply at the
+  bottom of the screen when you have completed your response.  If you clic
+ k Save Draft\, your message cannot be viewed by the instructor or other 
+ students.\n\n* As other students post their opinions\, read through the fo
+ rum\, and respond to at least two other messages by clicking Reply to t
+ he student's post\, and Post Reply.  The first couple of students who p
+ ost messages may have to check back later to post their replies.\n\n 
+SEQUENCE:0
+SUMMARY:Discussion 12 [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727840
+X-ALT-DESC;FMTTYPE=text/html:<p><span style="background-color: #ecf0f1\; fo
+ nt-size: 14pt\;"><strong style="color: #e03e2d\;">All discussions must be 
+ submitted every Sunday at 6:00 p.m. (this includes original postings and r
+ eplies) for </strong><span style="color: #e03e2d\;"><strong>attendance</st
+ rong></span><strong style="color: #e03e2d\;"> purposes.</strong></span></p
+ >\n<p>Discussion posts should be a paragraph or more and should fully answ
+ er the questions provided. Please make your initial post by Friday and res
+ pond to at least 2 other students by Sunday.</p>\n<p><strong>This week's q
+ uestions:</strong></p>\n<ol>\n<li>Discussion: Penetration Testing: Interna
+ l vs External.&nbsp\;\n<ol>\n<li>When planning to perform a penetration te
+ st\, an organization must decide whether to use internal security personne
+ l or external consultants to conduct the test.</li>\n<li>What are the adva
+ ntages and disadvantages of using internal vs external testers?</li>\n</ol
+ >\n</li>\n</ol>\n<p><strong>Posting Criteria and Grading&nbsp\;</strong><s
+ trong></strong></p>\n<table style="border-collapse: collapse\; width: 58.1
+ 48%\; height: 111px\;" border="1">\n<tbody>\n<tr style="height: 29px\;">\n
+ <td style="width: 49.9483%\; height: 29px\;">Initial discussion post (8 se
+ ntences)</td>\n<td style="width: 49.9483%\; height: 29px\;">60% of overall
+  credit</td>\n</tr>\n<tr style="height: 53px\;">\n<td style="width: 49.948
+ 3%\; height: 53px\;"><span>2 replies to two other students (5 sentences ea
+ ch) 30% each</span></td>\n<td style="width: 49.9483%\; height: 53px\;">30%
+  of overall credit</td>\n</tr>\n<tr style="height: 29px\;">\n<td style="wi
+ dth: 49.9483%\; height: 29px\;">Grammar/spelling</td>\n<td style="width: 4
+ 9.9483%\; height: 29px\;">10% of overall credit</td>\n</tr>\n</tbody>\n</t
+ able>\n<p>To submit your responses to the questions\, follow the steps bel
+ ow:</p>\n<ol>\n<li>Click Reply at the bottom<em>\,&nbsp\;</em>and post you
+ r responses to both questions in the same thread.&nbsp\; Be sure to click 
+ Pos<em>t Reply&nbsp\;</em>at the bottom of the screen when you have comple
+ ted your response.&nbsp\; If you click&nbsp\;<em>Save Draft\,&nbsp\;</em>y
+ our message cannot be viewed by the instructor or other students.</li>\n<l
+ i>As other students post their opinions\, read through the forum\, and res
+ pond to at least&nbsp\;two other&nbsp\;messages by clicking&nbsp\;<em>Repl
+ y to the student's post\,&nbsp\;</em>and&nbsp\;<em>Post Reply</em>.&nbsp\;
+  The first couple of students who post messages may have to check back lat
+ er to post their replies.</li>\n</ol>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T184200Z
+UID:event-assignment-784276
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:Exam 2 covers chapters 6-10. There are 10 questions from each c
+ hapter worth 2 points each. You have 60 minutes to complete the exam\, 2 a
+ ttempts on it\, the highest grade will be recorded. \n\nStudy the PowerPo
+ ints and the flashcards before you take the exam. Looking up the question
+ s is cheating and doesn't show what you know. \n\nMake sure you have enou
+ gh time to complete both attempts of the exam at the same time. If you ex
+ it the exam and try getting back in\, the time will have ended. 
+SEQUENCE:0
+SUMMARY:Exam 2 [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_784276
+X-ALT-DESC;FMTTYPE=text/html:<p>Exam 2 covers chapters 6-10. There are 10 q
+ uestions from each chapter worth 2 points each. You have 60 minutes to com
+ plete the exam\, 2 attempts on it\, the highest grade will be recorded.&nb
+ sp\;</p>\n<p>Study the PowerPoints and the flashcards before you take the 
+ exam.<span>&nbsp\;</span><strong>Looking up the questions is cheating and 
+ doesn't show what you know.&nbsp\;</strong></p>\n<p><strong>Make sure you 
+ have enough time to complete both attempts of the exam at the same time.&n
+ bsp\;</strong>If you exit the exam and try getting back in\, the time will
+  have ended.&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T004600Z
+UID:event-assignment-784894
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:Submit your challenge answer from the 13-1 weekly slides here. 
+ Please submit a screenshot containing both the command you used and the ou
+ tput. Ensure that the output matches the screenshot shown in the PowerPoin
+ t slides' answer.\n\nDo not submit your answer on both assignments\, or yo
+ u will not receive credit for either. You choose whether to apply it to yo
+ ur quizzes or assignments based on which one you submit to.\n\nSince this 
+ is extra credit and an optional assignment\, you have until Sunday at 11:5
+ 9 PM to submit it. No late submissions will be accepted.
+SEQUENCE:0
+SUMMARY:Extra Credit (Assignments) [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_784894
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your challenge answer from the 13-1 
+ weekly slides here. Please submit a screenshot containing both the command
+  you used and the output. Ensure that the output matches the screenshot sh
+ own in the PowerPoint slides' answer.</p>\n<p>Do not submit your answer on
+  both assignments\, or you will not receive credit for either. You choose 
+ whether to apply it to your quizzes or assignments based on which one you 
+ submit to.</p>\n<p>Since this is extra credit and an optional assignment\,
+  you have until Sunday at 11:59 PM to submit it. No late submissions will 
+ be accepted.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T201700Z
+UID:event-assignment-784895
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:Submit your challenge answer from the 13-1 weekly slides here. 
+ Please submit a screenshot containing both the command you used and the ou
+ tput. Ensure that the output matches the screenshot shown in the PowerPoin
+ t slides' answer.\n\nDo not submit your answer on both assignments\, or yo
+ u will not receive credit for either. You choose whether to apply it to yo
+ ur quizzes or assignments based on which one you submit to.\n\nSince this 
+ is extra credit and an optional assignment\, you have until Sunday at 11:5
+ 9 PM to submit it. No late submissions will be accepted.
+SEQUENCE:0
+SUMMARY:Extra Credit (Quizzes) [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_784895
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your challenge answer from the 13-1 
+ weekly slides here. Please submit a screenshot containing both the command
+  you used and the output. Ensure that the output matches the screenshot sh
+ own in the PowerPoint slides' answer.</p>\n<p>Do not submit your answer on
+  both assignments\, or you will not receive credit for either. You choose 
+ whether to apply it to your quizzes or assignments based on which one you 
+ submit to.</p>\n<p>Since this is extra credit and an optional assignment\,
+  you have until Sunday at 11:59 PM to submit it. No late submissions will 
+ be accepted.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T184200Z
+UID:event-assignment-784348
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:Read the article\, [What is TCP/IP?] (https://www.techtarget.co
+ m/searchnetworking/definition/TCP-IP) and then in your own words explain w
+ hat it is and why it is important. List and explain the 4 layers of the mo
+ del. Then explain what area of technology you plan to get a job in and the
+  role TCP/IP will play in that area.\n\nTo earn all of the points\, make a
+ n initial post and then read through the other posts and comment on 2. Mak
+ e sure you are adding to the discussion\, do not just write I agree or goo
+ d post. \n\n10 points for the initial post\n3 points for 1st response\n2 
+ points for 2nd response\n\n \n\n 
+SEQUENCE:0
+SUMMARY:Mobile Devices Discussion [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_784348
+X-ALT-DESC;FMTTYPE=text/html:<p>Read the article\, <a class="inline_disable
+ d" href="https://www.techtarget.com/searchnetworking/definition/TCP-IP" ta
+ rget="_blank">What is TCP/IP?</a> and then in your own words explain what 
+ it is and why it is important. List and explain the 4 layers of the model.
+  Then explain what area of technology you plan to get a job in and the rol
+ e TCP/IP will play in that area.</p>\n<p>To earn all of the points\, make 
+ an initial post and then read through the other posts and comment on 2. Ma
+ ke sure you are adding to the discussion\, do not just write I agree or go
+ od post.&nbsp\;</p>\n<p>10 points for the initial post<br>3 points for 1st
+  response<br>2 points for 2nd response</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T060000Z
+UID:event-assignment-741501
+DTSTART;VALUE=DATE;VALUE=DATE:20251116
+CLASS:PUBLIC
+DESCRIPTION:Choose two of the provided essay prompts based on Chapter 12 of
+  the Guide to Computer Forensics and Investigations. For each prompt you s
+ elect\, write a comprehensive\, well-structured essay of at least one full
+  page using APA format. Your response must be based on the information and
+  concepts presented in the first chapter of the provided text. The use of 
+ external sources is encouraged\; however\, please review the policy on usi
+ ng AI in the syllabus for guidance. As a reminder\, your work will be auto
+ matically checked for AI generation. Ensure that you use proper citations 
+ for all works used\, including the textbook.\n\nSubmit your assignment in 
+ a single file\, using either a Word (.doc\, .docx) or PDF format.\n\n*\n\n
+ Cloud Service and Deployment Models: Describe the three cloud service leve
+ ls (SaaS\, PaaS\, IaaS) and the four deployment methods (public\, private\
+ , community\, hybrid) as defined by NIST. Explain how the specific service
+  level and deployment model used in a case can dramatically affect the loc
+ ation and accessibility of evidence for a forensic investigator.\n\n*\n\nL
+ egal Challenges in Cloud Forensics: Analyze the primary legal challenges i
+ nvestigators face when dealing with cloud environments. Discuss the comple
+ xities of jurisdictional issues when data is stored across national border
+ s\, the importance of the Cloud Service Agreement (CSA)\, and the differen
+ t legal mechanisms (search warrants vs. subpoenas) used to access data fro
+ m a Cloud Service Provider (CSP).\n\n*\n\nTechnical Challenges in Cloud In
+ vestigations: The text lists numerous technical challenges in cloud forens
+ ics\, including architecture\, data collection\, and anti-forensics. Selec
+ t three of these challenges and explain in detail why they complicate the 
+ investigative process. For example\, how does the multitenancy architectur
+ e make evidence segregation difficult?\n\n*\n\nForensic Artifacts on a Cli
+ ent Machine: Even when data is stored "in the cloud\," traces are often le
+ ft on the client computer. Describe the types of artifacts an investigator
+  can find on a user's PC that indicate the use of services like Dropbox\, 
+ Google Drive\, or OneDrive. Your answer should include a discussion of syn
+ chronization files\, log files\, and the evidentiary value of Prefetch fil
+ es.\n\n*\n\nAcquisition Strategies for the Cloud: Compare and contrast the
+  various strategies for acquiring evidence in cloud investigations. Discus
+ s the role of the CSP's incident response team\, the potential need for re
+ mote acquisition tools like F-Response\, and the value of analyzing VM sna
+ pshots to build a timeline of an incident.
+SEQUENCE:0
+SUMMARY:Module 13 Essay [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_741501
+X-ALT-DESC;FMTTYPE=text/html:<p>Choose two of the provided essay prompts ba
+ sed on Chapter 12 of the Guide to Computer Forensics and Investigations. F
+ or each prompt you select\, write a comprehensive\, well-structured essay 
+ of at least one full page using APA format. Your response must be based on
+  the information and concepts presented in the first chapter of the provid
+ ed text. The use of external sources is encouraged\; however\, please revi
+ ew the policy on using AI in the syllabus for guidance. <span>As a reminde
+ r\, your work will be automatically checked for AI generation. Ensure that
+  you use proper citations for all works used\, including the textbook.</sp
+ an></p>\n<p>Submit your assignment in a single file\, using either a Word 
+ (.doc\, .docx) or PDF format.</p>\n<ol style="list-style-type: decimal\;">
+ \n<li>\n<p><strong>Cloud Service and Deployment Models: </strong>Describe 
+ the three cloud service levels (SaaS\, PaaS\, IaaS) and the four deploymen
+ t methods (public\, private\, community\, hybrid) as defined by NIST. Expl
+ ain how the specific service level and deployment model used in a case can
+  dramatically affect the location and accessibility of evidence for a fore
+ nsic investigator.</p>\n</li>\n<li>\n<p><strong>Legal Challenges in Cloud 
+ Forensics: </strong>Analyze the primary legal challenges investigators fac
+ e when dealing with cloud environments. Discuss the complexities of jurisd
+ ictional issues when data is stored across national borders\, the importan
+ ce of the Cloud Service Agreement (CSA)\, and the different legal mechanis
+ ms (search warrants vs. subpoenas) used to access data from a Cloud Servic
+ e Provider (CSP).</p>\n</li>\n<li>\n<p><strong>Technical Challenges in Clo
+ ud Investigations: </strong>The text lists numerous technical challenges i
+ n cloud forensics\, including architecture\, data collection\, and anti-fo
+ rensics. Select three of these challenges and explain in detail why they c
+ omplicate the investigative process. For example\, how does the multitenan
+ cy architecture make evidence segregation difficult?</p>\n</li>\n<li>\n<p>
+ <strong>Forensic Artifacts on a Client Machine: </strong>Even when data is
+  stored "in the cloud\," traces are often left on the client computer. Des
+ cribe the types of artifacts an investigator can find on a user's PC that 
+ indicate the use of services like Dropbox\, Google Drive\, or OneDrive. Yo
+ ur answer should include a discussion of synchronization files\, log files
+ \, and the evidentiary value of Prefetch files.</p>\n</li>\n<li>\n<p><stro
+ ng>Acquisition Strategies for the Cloud:</strong> Compare and contrast the
+  various strategies for acquiring evidence in cloud investigations. Discus
+ s the role of the CSP's incident response team\, the potential need for re
+ mote acquisition tools like F-Response\, and the value of analyzing VM sna
+ pshots to build a timeline of an incident.</p>\n</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T001500Z
+UID:event-assignment-727849
+DTSTART;VALUE=DATE;VALUE=DATE:20251117
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 12-1: Vulnerability Management [25/FA CIS-
+ 616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727849
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T001500Z
+UID:event-assignment-727876
+DTSTART;VALUE=DATE;VALUE=DATE:20251117
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Module 12 Vulnerability Management [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727876
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T001500Z
+UID:event-assignment-727886
+DTSTART;VALUE=DATE;VALUE=DATE:20251117
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 12-1: Understanding Vulnerability Scans [25/FA CIS-616-O
+ L01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727886
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T001500Z
+UID:event-assignment-727887
+DTSTART;VALUE=DATE;VALUE=DATE:20251117
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 12-2: Types of Vulnerability Scans [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727887
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T001000Z
+UID:event-assignment-727848
+DTSTART;VALUE=DATE;VALUE=DATE:20251118
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 11-1: Security Architecture Models [25/FA 
+ CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727848
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T140700Z
+UID:event-assignment-737147
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab 14-1: Report Writing for High-Tech Investigations [25/FA CIS-60
+ 2-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737147
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T060000Z
+UID:event-assignment-736866
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:For your discussion post\, please complete either the "Linux fo
+ r Life" or "Reflection" activity found in the reading section of the modul
+ e.\n\nYour initial post is due on Friday by 11:59 PM\, and your three repl
+ ies are due by Sunday at 11:59 PM. Please review the rubric in the assignm
+ ent for details on grading requirements.
+SEQUENCE:0
+SUMMARY:Linux Chapter Nine Discussion Post [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_736866
+X-ALT-DESC;FMTTYPE=text/html:<p>For your discussion post\, please complete 
+ either the "Linux for Life" or "Reflection" activity found in the reading 
+ section of the module.</p>\n<p>Your initial post is due on Friday by 11:59
+  PM\, and your three replies are due by Sunday at 11:59 PM. Please review 
+ the rubric in the assignment for details on grading requirements.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T060000Z
+UID:event-assignment-730839
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 9-1: Managing Processes in Linux [25/FA CS
+ C-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730839
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231600Z
+UID:event-assignment-727850
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 13-1: Resilience in Security Architecture 
+ [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727850
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231600Z
+UID:event-assignment-727851
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 13-2: Investigative Data Sources [25/FA CI
+ S-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727851
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231600Z
+UID:event-assignment-727852
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 13-3: Security Concept Fundamentals [25/FA
+  CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727852
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T060000Z
+UID:event-assignment-737134
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:Class\,\n\nPlease be sure to read through Module 14 Chapter bef
+ ore answering the following questions:\n\n* In your own opinion\, why is r
+ eport writing necessary for Cyber Security Professionals?\n\n* Why is it i
+ mportant to convey a tone of objectivity when writing a report?\n\n* How w
+ ould you go about having your report proofread if you were a Cyber Securit
+ y Expert?\n\nPlease be sure to write a minimum of 2 complete paragraphs\, 
+ which is due Friday by midnight\, and your three replies are due Sunday by
+  midnight
+SEQUENCE:0
+SUMMARY:Module 14 Discussion [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737134
+X-ALT-DESC;FMTTYPE=text/html:<p>Class\,</p>\n<p>Please be sure to read thro
+ ugh Module 14 Chapter before answering the following questions:</p>\n<ul>\
+ n<li>In your own opinion\, why is report writing necessary for Cyber Secur
+ ity Professionals?</li>\n<li>Why is it important to convey a tone of objec
+ tivity when writing a report?</li>\n<li>How would you go about having your
+  report proofread if you were a Cyber Security Expert?</li>\n</ul>\n<p>Ple
+ ase be sure to write a minimum of 2 complete paragraphs\, which is due Fri
+ day by midnight\, and your three replies are due Sunday by midnight</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T140700Z
+UID:event-assignment-737160
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Module 14 Quiz [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737160
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T060000Z
+UID:event-assignment-730852
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Chapter 09 Managing Linux Processes [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730852
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231600Z
+UID:event-assignment-727877
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Module 13 Incident Preparation and Investigation [25/FA CIS-6
+ 16-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727877
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T060000Z
+UID:event-assignment-730874
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 9-1: View Processes [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730874
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231600Z
+UID:event-assignment-727888
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 13-1: Using Windows File History to Perform Data Backups
+  [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727888
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231600Z
+UID:event-assignment-727889
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 13-2: Backup Archive Bit [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727889
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T191500Z
+UID:event-assignment-786189
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:12-2: Configuring a Windows Device using the Control Panel [25/FA N
+ ET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_786189
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T191500Z
+UID:event-assignment-786188
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:12-2: Install Hyper-V\, Configure\, and Create VM [25/FA NET-790-OL
+ 01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_786188
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T191600Z
+UID:event-assignment-786190
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:12-3: Different Operating System Installation Methods [25/FA NET-79
+ 0-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_786190
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T060000Z
+UID:event-assignment-767858
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:The Quantum Threat and the Urgency of PQC \n------------------
+ ------------------------\n\nThis week\, you were introduced to the concept
+  of Post-Quantum Cryptography (PQC) by highlighting the significant threat
+  that future large-scale quantum computers pose to conventional cryptograp
+ hic schemes. The text particularly emphasizes the "store now\, decrypt lat
+ er" adversary strategy and the inherent latency involved in developing and
+  deploying new cryptographic standards.\n\nFor this discussion\, consider 
+ the following:\n\n* Explain in detail how Shor's algorithm specifically im
+ pacts established public-key schemes such as RSA\, discrete logarithm sche
+ mes (e.g.\, Diffie-Hellman)\, and elliptic curve cryptography (ECC). Contr
+ ast this with the effect of Grover's algorithm on symmetric ciphers like A
+ ES\, explaining how the level of threat fundamentally differs for asymmetr
+ ic versus symmetric cryptography.\n\n* Why is it deemed crucial to develop
+  and deploy PQC now\, even though large-scale quantum computers are not ye
+ t fully realized? Discuss the implications of the "store now\, decrypt lat
+ er" strategy for organizations handling long-lived sensitive data\, refere
+ ncing historical precedents if applicable.\n\n* Beyond the purely technica
+ l challenges of designing new quantum-resistant algorithms\, what are the 
+ major non-technical hurdles (e.g.\, standardization processes\, ensuring i
+ nteroperability\, key management complexities\, or even political consider
+ ations) that contribute to the significant latency in widespread PQC adopt
+ ion?\n\n* Reflect on the design principles of "information loss" and "appr
+ oximation" as foundational concepts for many PQC schemes\, as outlined in 
+ Section 12.1.3. How do these principles contribute to the assumed quantum-
+ resistance of these new algorithms\, fundamentally differentiating them fr
+ om the mathematical problems that underpin conventional cryptography?\n\nY
+ our initial post should be at least two paragraphs long\, with each contai
+ ning four sentences. This is due by Friday at 11:59 PM. A minimum of three
+  replies is due Sunday evening by 11:59 PM.\n\n \n\nWorks Cited:\n\nPaar\
+ , C.\, Pelzl\, J.\, & Güneysu\, T. (2024). Understanding cryptography: Fr
+ om Established Symmetric and Asymmetric Ciphers to Post-Quantum Algorithms
+ . Springer.
+SEQUENCE:0
+SUMMARY:Chapter 12 Discussion [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_767858
+X-ALT-DESC;FMTTYPE=text/html:<div class="paragraph normal ng-star-inserted"
+  data-start-index="224">\n<div class="paragraph normal ng-star-inserted" d
+ ata-start-index="310">\n<h3 class="paragraph heading3 ng-star-inserted" da
+ ta-start-index="200">The Quantum Threat and the Urgency of PQC&nbsp\;</h3>
+ \n<div class="paragraph normal ng-star-inserted" data-start-index="285">\n
+ <div class="paragraph normal ng-star-inserted" data-start-index="264">\n<d
+ iv class="paragraph normal ng-star-inserted" data-start-index="293"><span 
+ class="ng-star-inserted" data-start-index="293">This week\, you were intro
+ duced to the concept of </span><span class="ng-star-inserted">Post-Quantum
+  Cryptography (PQC)</span><span class="ng-star-inserted" data-start-index=
+ "395"> by highlighting the </span><span class="ng-star-inserted">significa
+ nt threat that future large-scale quantum computers pose to conventional c
+ ryptographic schemes</span><span class="ng-star-inserted" data-start-index
+ ="519">. The text particularly emphasizes the </span><span class="ng-star-
+ inserted">"store now\, decrypt later" adversary strategy</span><span class
+ ="ng-star-inserted" data-start-index="603"> and the </span><span class="ng
+ -star-inserted">inherent latency involved in developing and deploying new 
+ cryptographic standards</span><span class="ng-star-inserted" data-start-in
+ dex="693">.</span></div>\n<div class="paragraph normal ng-star-inserted" d
+ ata-start-index="694"><span class="ng-star-inserted" data-start-index="694
+ ">For this discussion\, consider the following:</span></div>\n<ul>\n<li cl
+ ass="paragraph normal ng-star-inserted" data-start-index="738"><span class
+ ="ng-star-inserted">Explain in detail how Shor's algorithm specifically im
+ pacts established public-key schemes such as RSA\, discrete logarithm sche
+ mes (e.g.\, Diffie-Hellman)\, and elliptic curve cryptography (ECC).</span
+ ><span class="ng-star-inserted" data-start-index="931"> Contrast this with
+  the effect of Grover's algorithm on symmetric ciphers like AES\, explaini
+ ng how the level of threat fundamentally differs for asymmetric versus sym
+ metric cryptography</span><span class="ng-star-inserted" data-start-index=
+ "1116">.</span></li>\n<li class="paragraph normal ng-star-inserted" data-s
+ tart-index="1117"><span class="ng-star-inserted">Why is it deemed crucial 
+ to develop and deploy PQC </span><span class="italic ng-star-inserted">now
+ </span><span class="ng-star-inserted">\, even though large-scale quantum c
+ omputers are not yet fully realized?</span><span class="ng-star-inserted" 
+ data-start-index="1242"> Discuss the implications of the "store now\, decr
+ ypt later" strategy for organizations handling long-lived sensitive data\,
+  referencing historical precedents if applicable</span><span class="ng-sta
+ r-inserted" data-start-index="1412">.</span></li>\n<li class="paragraph no
+ rmal ng-star-inserted" data-start-index="1413"><span class="ng-star-insert
+ ed">Beyond the purely technical challenges of designing new quantum-resist
+ ant algorithms\, what are the major non-technical hurdles (e.g.\, standard
+ ization processes\, ensuring interoperability\, key management complexitie
+ s\, or even political considerations) that contribute to the significant l
+ atency in widespread PQC adoption?</span></li>\n<li class="paragraph norma
+ l ng-star-inserted" data-start-index="1734"><span class="ng-star-inserted"
+ >Reflect on the design principles of "information loss" and "approximation
+ " as foundational concepts for many PQC schemes\, as outlined in Section 1
+ 2.1.3.</span><span class="ng-star-inserted" data-start-index="1886"> How d
+ o these principles contribute to the assumed quantum-resistance of these n
+ ew algorithms\, fundamentally differentiating them from the mathematical p
+ roblems that underpin conventional cryptography?</span></li>\n</ul>\n</div
+ >\n</div>\n</div>\n</div>\n<p><span class="ng-star-inserted">Your initial 
+ post should be at least two paragraphs long\, with each containing four se
+ ntences. This is due by Friday at 11:59 PM. A minimum of three replies is 
+ due Sunday evening by 11:59 PM.</span></p>\n<p>&nbsp\;</p>\n<p>Works Cited
+ :</p>\n<div>\n<p>Paar\, C.\, Pelzl\, J.\, &amp\; Güneysu\, T. (2024). <i>
+ Understanding cryptography: From Established Symmetric and Asymmetric Ciph
+ ers to Post-Quantum Algorithms</i>. Springer.</p>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T060000Z
+UID:event-assignment-767860
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 12 Quiz [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_767860
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T191900Z
+UID:event-assignment-786198
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:Complete the Chapter 12 quiz. You get 2 attempts on the quiz an
+ d the highest grade will be recorded. \n\nLooking up the answers is cheat
+ ing. Read through the resources in the module before taking it. 
+SEQUENCE:0
+SUMMARY:Chapter 12 Quiz [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_786198
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Complete the Chapter 12 quiz. You get
+  2 attempts on the quiz and the highest grade will be recorded.&nbsp\;</sp
+ an></p>\n<p><span>Looking up the answers is cheating. Read through the res
+ ources in the module before taking it.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T060000Z
+UID:event-assignment-767859
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:Hash-Based Cryptography: From One-Time to Many-Time Signatures\
+ n--------------------------------------------------------------\n\n Hash-
+ Based Cryptography is a family of Post-Quantum digital signature schemes w
+ hose security fundamentally relies on the assumed resistance of cryptograp
+ hic hash functions (like SHA-2 or SHA-3) to inversion by quantum computers
+ . These schemes offer a distinct approach to digital signatures compared t
+ o conventional methods.\nFor this essay\, address the following:\n\n* Expl
+ ain the core principles and detailed mechanisms of a Lamport-Diffie One-Ti
+ me Signature (LD-OTS) scheme. Describe its key generation\, signing\, and 
+ verification processes\, illustrating how a one-way function is utilized a
+ nd why the scheme is limited to "one-time" use.\n\n* Discuss the primary p
+ ractical limitations of the LD-OTS scheme\, particularly concerning the si
+ ze of keys and signatures for real-world messages. How does the Winternitz
+  One-Time Signature (W-OTS) scheme improve upon LD-OTS by reducing the siz
+ e of signatures and public keys\, and what is the underlying mechanism for
+  this improvement?\n\n* Analyze how the Merkle Signature Scheme (MSS) over
+ comes the "one-time" limitation of its predecessors to create a "many-time
+ " signature scheme. Explain the structure and purpose of a Merkle hash tre
+ e in this context\, detailing how the root of the tree serves as the publi
+ c key and how an authentication path enables the verification of individua
+ l one-time signatures.\n\n* Compare and contrast hash-based digital signat
+ ures (such as MSS\, XMSS\, or LMS) with conventional digital signature alg
+ orithms (like RSA or ECDSA\, as discussed in Chapter 10). Your comparison 
+ should cover their underlying security assumptions (classical vs. quantum 
+ resistance)\, typical key and signature sizes\, and practical applicabilit
+ y (e.g.\, efficiency\, stateless vs. stateful nature). What are the specif
+ ic advantages and disadvantages of adopting hash-based signatures in a pos
+ t-quantum world?\n\nYour essay should demonstrate a comprehensive understa
+ nding of the mechanisms\, security properties\, and practical implications
+  of hash-based cryptography\, drawing directly from both the provided sour
+ ce material and external sources. Cite your work appropriately to support 
+ your arguments and offer detailed explanations of the cryptographic concep
+ ts involved.  The assignment should be at least three pages long and in A
+ PA format.\n\nSubmit your work as either a Word Document or a PDF. Ensure 
+ you follow the rubric.
+SEQUENCE:0
+SUMMARY:Chapter 12 Writing Assignment [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_767859
+X-ALT-DESC;FMTTYPE=text/html:<div class="paragraph normal ng-star-inserted"
+  data-start-index="274">\n<h3 class="paragraph heading3 ng-star-inserted" 
+ data-start-index="1246">Hash-Based Cryptography: From One-Time to Many-Tim
+ e Signatures</h3>\n<div class="paragraph heading3 ng-star-inserted" data-s
+ tart-index="1246">\n<p>&nbsp\;Hash-Based Cryptography is a family of Post-
+ Quantum digital signature schemes whose security fundamentally relies on t
+ he assumed resistance of cryptographic hash functions (like SHA-2 or SHA-3
+ ) to inversion by quantum computers. These schemes offer a distinct approa
+ ch to digital signatures compared to conventional methods.<br>For this ess
+ ay\, address the following:</p>\n<ul>\n<li>Explain the core principles and
+  detailed mechanisms of a Lamport-Diffie One-Time Signature (LD-OTS) schem
+ e. Describe its key generation\, signing\, and verification processes\, il
+ lustrating how a one-way function is utilized and why the scheme is limite
+ d to "one-time" use.</li>\n<li>Discuss the primary practical limitations o
+ f the LD-OTS scheme\, particularly concerning the size of keys and signatu
+ res for real-world messages. How does the Winternitz One-Time Signature (W
+ -OTS) scheme improve upon LD-OTS by reducing the size of signatures and pu
+ blic keys\, and what is the underlying mechanism for this improvement?</li
+ >\n<li>Analyze how the Merkle Signature Scheme (MSS) overcomes the "one-ti
+ me" limitation of its predecessors to create a "many-time" signature schem
+ e. Explain the structure and purpose of a Merkle hash tree in this context
+ \, detailing how the root of the tree serves as the public key and how an 
+ authentication path enables the verification of individual one-time signat
+ ures.</li>\n<li>Compare and contrast hash-based digital signatures (such a
+ s MSS\, XMSS\, or LMS) with conventional digital signature algorithms (lik
+ e RSA or ECDSA\, as discussed in Chapter 10). Your comparison should cover
+  their underlying security assumptions (classical vs. quantum resistance)\
+ , typical key and signature sizes\, and practical applicability (e.g.\, ef
+ ficiency\, stateless vs. stateful nature). What are the specific advantage
+ s and disadvantages of adopting hash-based signatures in a post-quantum wo
+ rld?</li>\n</ul>\n<div class="paragraph normal ng-star-inserted" data-star
+ t-index="3486"><span class="ng-star-inserted" data-start-index="3486">Your
+  essay should demonstrate <span>a comprehensive understanding of the mecha
+ nisms\, security properties\, and practical implications of hash-based cry
+ ptography</span>\, </span><span style="font-family: inherit\; font-size: 1
+ rem\;">drawing directly from both the provided source material and externa
+ l sources. Cite your work appropriately to support your arguments and offe
+ r detailed explanations of the cryptographic concepts involved.&nbsp\; The
+  assignment should be at least three pages long and in APA format.</span><
+ /div>\n</div>\n</div>\n<div class="paragraph normal ng-star-inserted" data
+ -start-index="274">Submit your work as either a Word Document or a PDF. En
+ sure you follow the rubric.</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250928T050000Z
+UID:event-assignment-727832
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:---------------------------------------------------------------
+ -------------------------------------------------------------------\nAll d
+ iscussions must be submitted every Sunday at 6:00 p.m. (this includes orig
+ inal postings and replies) for attendance purposes.\n---------------------
+ --------------------------------------------------------------------------
+ -----------------------------------\n\nDiscussion posts should be a paragr
+ aph or more and should fully answer the questions provided. Please make yo
+ ur initial post by Friday and respond to at least 2 other students by Sund
+ ay.\n\nThis week's questions:\n\n* Discussion: Chain of Custody.\n\n* Fore
+ nsic Procedures\n\n* What is chain of custody and why is it important to p
+ reserve the chain of custody?\n\n* What are some of the consequences of a 
+ poorly maintained chain of custody of digital evidence?\n\nPosting Criteri
+ a and Grading \n\nInitial discussion post (8 sentences)\n\n60% of overall
+  credit\n\n1 reply to one other student (5 sentences each) 30% each\n\n30%
+  of overall credit\n\nGrammar/spelling\n\n10% of overall credit\n\n 
+SEQUENCE:0
+SUMMARY:Discussion 13 [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727832
+X-ALT-DESC;FMTTYPE=text/html:<h2 class="fOyUs_bGBk"><span style="color: #e0
+ 3e2d\;"><strong><span style="font-family: inherit\; font-size: 1rem\;">All
+  discussions must be submitted every Sunday at 6:00 p.m. (this includes or
+ iginal postings and replies) for attendance purposes.</span></strong></spa
+ n></h2>\n<div class="discussion-section message_wrapper">\n<div class="mes
+ sage user_content enhanced" data-bind="message">\n<p>Discussion posts shou
+ ld be a paragraph or more and should fully answer the questions provided. 
+ Please make your initial post by Friday and respond to at least 2 other st
+ udents by Sunday.</p>\n<p><strong>This week's questions:</strong></p>\n<ol
+ >\n<li>Discussion: Chain of Custody.\n<ol>\n<li>Forensic Procedures</li>\n
+ <li>What is chain of custody and why is it important to preserve the chain
+  of custody?</li>\n<li>What are some of the consequences of a poorly maint
+ ained chain of custody of digital evidence?</li>\n</ol>\n</li>\n</ol>\n<p>
+ <strong style="color: var(--ic-brand-font-color-dark)\; font-family: inher
+ it\; font-size: 1rem\;">Posting Criteria and Grading&nbsp\;</strong></p>\n
+ <table border="1">\n<tbody>\n<tr>\n<td>Initial discussion post (8 sentence
+ s)</td>\n<td>60% of overall credit</td>\n</tr>\n<tr>\n<td>1 reply to one o
+ ther student (5 sentences each) 30% each</td>\n<td>30% of overall credit</
+ td>\n</tr>\n<tr>\n<td>Grammar/spelling</td>\n<td>10% of overall credit</td
+ >\n</tr>\n</tbody>\n</table>\n<p>&nbsp\;</p>\n</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T060000Z
+UID:event-assignment-741503
+DTSTART;VALUE=DATE;VALUE=DATE:20251123
+CLASS:PUBLIC
+DESCRIPTION:Choose two of the provided essay prompts based on Chapter 14 of
+  the Guide to Computer Forensics and Investigations. For each prompt you s
+ elect\, write a comprehensive\, well-structured essay of at least one full
+  page using APA format. Your response must be based on the information and
+  concepts presented in the first chapter of the provided text. The use of 
+ external sources is encouraged\; however\, please review the policy on usi
+ ng AI in the syllabus for guidance. As a reminder\, your work will be auto
+ matically checked for AI generation. Ensure that you use proper citations 
+ for all works used\, including the textbook.\n\nSubmit your assignment in 
+ a single file\, using either a Word (.doc\, .docx) or PDF format.\n\n*\n\n
+ The Structure and Purpose of a Forensic Report: Outline the key sections o
+ f a formal forensic report as described in the chapter (abstract\, body\, 
+ conclusion\, etc.). Explain the overall purpose of the report and why it m
+ ust be written with the expectation that opposing counsel will scrutinize 
+ it. Discuss the differences between a formal written report and a prelimin
+ ary verbal report.\n\n*\n\nWriting for a Non-Technical Audience: One of th
+ e most significant challenges in report writing is conveying complex techn
+ ical information to a non-technical audience\, like a judge or jury. Discu
+ ss the specific writing strategies the chapter recommends to achieve clari
+ ty\, including using a natural language style\, avoiding jargon\, defining
+  technical terms\, and using signposts to guide the reader.\n\n*\n\nLegal 
+ Requirements for Expert Reports: Explain the requirements for an expert wi
+ tness report under Rule 26 of the Federal Rules of Civil Procedure. What s
+ pecific information regarding qualifications\, prior testimony\, publicati
+ ons\, and compensation must be included? How do deposition banks factor in
+ to an opposing attorney's preparation?\n\n*\n\nObjectivity and the Hypothe
+ tical Question: Discuss the importance of maintaining objectivity and avoi
+ ding advocacy in a forensic report. Explain the structure and purpose of t
+ he hypothetical question\, and how it allows an expert to render an opinio
+ n based on a specific set of factual evidence without having personal know
+ ledge of the event.\n\n*\n\nIntegrating Tool-Generated Data: Modern forens
+ ics tools can automatically generate logs and reports. Explain the benefit
+ s and limitations of using these automated reports. How should an investig
+ ator incorporate data from a tool like Autopsy into their own formal writt
+ en report to provide context and explain the significance of the findings?
+ \n\n 
+SEQUENCE:0
+SUMMARY:Module 14 Essay [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_741503
+X-ALT-DESC;FMTTYPE=text/html:<p>Choose two of the provided essay prompts ba
+ sed on Chapter 14 of the Guide to Computer Forensics and Investigations. F
+ or each prompt you select\, write a comprehensive\, well-structured essay 
+ of at least one full page using APA format. Your response must be based on
+  the information and concepts presented in the first chapter of the provid
+ ed text. The use of external sources is encouraged\; however\, please revi
+ ew the policy on using AI in the syllabus for guidance. <span>As a reminde
+ r\, your work will be automatically checked for AI generation. Ensure that
+  you use proper citations for all works used\, including the textbook.</sp
+ an></p>\n<p>Submit your assignment in a single file\, using either a Word 
+ (.doc\, .docx) or PDF format.</p>\n<ol style="list-style-type: decimal\;">
+ \n<li>\n<p><strong>The Structure and Purpose of a Forensic Report: </stron
+ g>Outline the key sections of a formal forensic report as described in the
+  chapter (abstract\, body\, conclusion\, etc.). Explain the overall purpos
+ e of the report and why it must be written with the expectation that oppos
+ ing counsel will scrutinize it. Discuss the differences between a formal w
+ ritten report and a preliminary verbal report.</p>\n</li>\n<li>\n<p><stron
+ g>Writing for a Non-Technical Audience: </strong>One of the most significa
+ nt challenges in report writing is conveying complex technical information
+  to a non-technical audience\, like a judge or jury. Discuss the specific 
+ writing strategies the chapter recommends to achieve clarity\, including u
+ sing a natural language style\, avoiding jargon\, defining technical terms
+ \, and using signposts to guide the reader.</p>\n</li>\n<li>\n<p><strong>L
+ egal Requirements for Expert Reports: </strong>Explain the requirements fo
+ r an expert witness report under Rule 26 of the Federal Rules of Civil Pro
+ cedure. What specific information regarding qualifications\, prior testimo
+ ny\, publications\, and compensation must be included? How do deposition b
+ anks factor into an opposing attorney's preparation?</p>\n</li>\n<li>\n<p>
+ <strong>Objectivity and the Hypothetical Question:</strong> Discuss the im
+ portance of maintaining objectivity and avoiding advocacy in a forensic re
+ port. Explain the structure and purpose of the hypothetical question\, and
+  how it allows an expert to render an opinion based on a specific set of f
+ actual evidence without having personal knowledge of the event.</p>\n</li>
+ \n<li>\n<p><strong>Integrating Tool-Generated Data: </strong>Modern forens
+ ics tools can automatically generate logs and reports. Explain the benefit
+ s and limitations of using these automated reports. How should an investig
+ ator incorporate data from a tool like Autopsy into their own formal writt
+ en report to provide context and explain the significance of the findings?
+ </p>\n<p>&nbsp\;</p>\n</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T140700Z
+UID:event-assignment-737148
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab 15-1: Expert Testimony in Digital Investigations [25/FA CIS-602
+ -OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737148
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T202800Z
+UID:event-assignment-736867
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Linux Chapter Ten Discussion Post [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_736867
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211700Z
+UID:event-assignment-730814
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 10-1: Linux Identity Management [25/FA CSC
+ -121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730814
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250728T190300Z
+UID:event-assignment-737138
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Module 15 Discussion [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737138
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T140700Z
+UID:event-assignment-737161
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Module 15 Quiz [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_737161
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211700Z
+UID:event-assignment-730853
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz: Chapter 10 Common Administrative Tasks [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730853
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211800Z
+UID:event-assignment-730866
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Simulation 10-1: User Account Databases [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=11&year=2025#assignment_730866
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T192500Z
+UID:event-assignment-786193
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:13-1: Managing a Windows Device using the Command Line Interface [2
+ 5/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_786193
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T192400Z
+UID:event-assignment-786191
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:13-1: Using System Restore [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_786191
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T192400Z
+UID:event-assignment-786192
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:13-2: Verifying TCP IP Settings [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_786192
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250821T012000Z
+UID:event-assignment-768759
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 13 Discussion [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_768759
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250821T012000Z
+UID:event-assignment-768761
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 13 Quiz [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_768761
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T192500Z
+UID:event-assignment-786199
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+DESCRIPTION:Complete the Chapter 13 quiz. You get 2 attempts on the quiz an
+ d the highest grade will be recorded. \n\nLooking up the answers is cheat
+ ing. Read through the resources in the module before taking it. 
+SEQUENCE:0
+SUMMARY:Chapter 13 Quiz [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=11&year=2025#assignment_786199
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Complete the Chapter 13 quiz. You get
+  2 attempts on the quiz and the highest grade will be recorded.&nbsp\;</sp
+ an></p>\n<p><span>Looking up the answers is cheating. Read through the res
+ ources in the module before taking it.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250821T012000Z
+UID:event-assignment-768760
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 13 Writing Assignment [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=11&year=2025#assignment_768760
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250928T050000Z
+UID:event-assignment-727836
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+DESCRIPTION:All discussions must be submitted every Sunday at 6:00 p.m. (th
+ is includes original postings and replies) for attendance purposes.\n\nDis
+ cussion posts should be a paragraph or more and should fully answer the qu
+ estions provided. Please make your initial post by Friday and respond to a
+ t least 2 other students by Sunday.\n\nThis week's questions:\n\n* Discuss
+ ion: Disaster Recovery Plan.\n\n* Introduction to Business Continuity\n\n*
+  What is the importance of a disaster recovery plan?\n\n* What are the con
+ sequences of not creating this plan?\n\nPosting Criteria and Grading \n\n
+ Initial discussion post (8 sentences)\n\n60% of overall credit\n\n2 replie
+ s to two other students (5 sentences each) 30% each\n\n30% of overall cred
+ it\n\nGrammar/spelling\n\n10% of overall credit\n\n 
+SEQUENCE:0
+SUMMARY:Discussion 14 [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=11&year=2025#assignment_727836
+X-ALT-DESC;FMTTYPE=text/html:<header class="discussion-section clearfix">\n
+ <div class="discussion-header-content right-of-avatar">\n<div class="pull-
+ left">\n<p><span style="background-color: #ecf0f1\; font-size: 14pt\;"><st
+ rong style="color: #e03e2d\;">All discussions must be submitted every Sund
+ ay at 6:00 p.m. (this includes original postings and replies) for </strong
+ ><span style="color: #e03e2d\;"><strong>attendance</strong></span><strong 
+ style="color: #e03e2d\;"> purposes.</strong></span></p>\n</div>\n</div>\n<
+ /header>\n<div class="discussion-section message_wrapper">\n<div class="me
+ ssage user_content enhanced" data-bind="message">\n<p>Discussion posts sho
+ uld be a paragraph or more and should fully answer the questions provided.
+  Please make your initial post by Friday and respond to at least 2 other s
+ tudents by Sunday.</p>\n<p><strong>This week's questions:</strong></p>\n<o
+ l>\n<li>Discussion: Disaster Recovery Plan.\n<ol>\n<li>Introduction to Bus
+ iness Continuity</li>\n<li>What is the importance of a disaster recovery p
+ lan?</li>\n<li>What are the consequences of not creating this plan?</li>\n
+ </ol>\n</li>\n</ol>\n<p><strong>Posting Criteria and Grading&nbsp\;</stron
+ g><strong></strong></p>\n<table style="border-collapse: collapse\; width: 
+ 58.148%\; height: 111px\;" border="1">\n<tbody>\n<tr style="height: 29px\;
+ ">\n<td style="width: 49.9483%\; height: 29px\;">Initial discussion post (
+ 8 sentences)</td>\n<td style="width: 49.9483%\; height: 29px\;">60% of ove
+ rall credit</td>\n</tr>\n<tr style="height: 53px\;">\n<td style="width: 49
+ .9483%\; height: 53px\;">2 replies to two other students (5 sentences each
+ ) 30% each</td>\n<td style="width: 49.9483%\; height: 53px\;">30% of overa
+ ll credit</td>\n</tr>\n<tr style="height: 29px\;">\n<td style="width: 49.9
+ 483%\; height: 29px\;">Grammar/spelling</td>\n<td style="width: 49.9483%\;
+  height: 29px\;">10% of overall credit</td>\n</tr>\n</tbody>\n</table>\n<p
+ >&nbsp\;</p>\n</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251008T003600Z
+UID:event-assignment-741522
+DTSTART;VALUE=DATE;VALUE=DATE:20251130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Module 15 Essay [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=11&year=2025#assignment_741522
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231700Z
+UID:event-assignment-727853
+DTSTART;VALUE=DATE;VALUE=DATE:20251201
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 14-1: Implementation of Automation & Orche
+ stration for Security Operations [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=12&year=2025#assignment_727853
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231700Z
+UID:event-assignment-727878
+DTSTART;VALUE=DATE;VALUE=DATE:20251201
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Module 14 Oversight and Operations [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=12&year=2025#assignment_727878
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231700Z
+UID:event-assignment-727890
+DTSTART;VALUE=DATE;VALUE=DATE:20251201
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 14-1: Using a Nonpersistent Web Browser [25/FA CIS-616-O
+ L01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=12&year=2025#assignment_727890
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231700Z
+UID:event-assignment-727891
+DTSTART;VALUE=DATE;VALUE=DATE:20251201
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 14-2: Local Security Policy [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=12&year=2025#assignment_727891
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251116T203900Z
+UID:event-assignment-727221
+DTSTART;VALUE=DATE;VALUE=DATE:20251205
+CLASS:PUBLIC
+DESCRIPTION:1. Your own original post that answers the question below: (Due
+  Friday December 8 at midnight) 10pts\n\nImagine you are a cyber security 
+ professional and you are always in a position where you need to properly c
+ ommunicate what's going on with evidence.  You could be in the courthouse
+  handling evidence or you could be on a crime scene as it doesn't matter b
+ ecause handling digital evidence and communicating is crucial.  Imagine y
+ ou are in a situation where you have to explain to a judge/jury/legal team
+  who's not very technically savvy how you were able to prove that a defend
+ ant is guilty.  I want you to answer the following:\n\n* What strategies 
+ would you take to explain and communicate how technical digital forensics 
+ strategies work to non technical judges and juries?\n\n* provide a hypothe
+ tical example\n\n* How would you explain that you digital forensics softwa
+ re is trustworthy and not tampered with?\n\n* How would you communicate to
+  a lawyer team that you are 100% confident your digital forensics analysis
+  is correct?\n\n* How important in your opinion is confidence when communi
+ cating digital forensics?  explain\n\nThis final discussion is worth more
+  points that most weeks\, the number of paragraphs I expect is between 3-6
+ .\n\n2. Reply to 2 classmates' posts. (Due Friday December 10 midnight) 1
+ 0pts\n\n \n\nRubric\n\nTo receive full credit\, your post and reply must 
+ be...\n\n* At least three sentences in length (two paragraphs of at least 
+ 3 sentences each for the initial post)\n\n* Written in complete\, grammati
+ cally correct sentences\n\n* Free from spelling errors\n\n* An intelligent
+  response
+SEQUENCE:0
+SUMMARY:Final Discussion [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=12&year=2025#assignment_727221
+X-ALT-DESC;FMTTYPE=text/html:<p><span>1. Your own original post that answer
+ s the question below: (Due Friday December 8 at midnight) </span><strong>1
+ 0pts</strong></p><p>Imagine you are a cyber security professional and you 
+ are always in a position where you need to properly communicate what's goi
+ ng on with evidence.&nbsp\; You could be in the courthouse handling eviden
+ ce or you could be on a crime scene as it doesn't matter because handling 
+ digital evidence and communicating is crucial.&nbsp\; Imagine you are in a
+  situation where you have to explain to a judge/jury/legal team who's not 
+ very technically savvy how you were able to prove that a defendant is guil
+ ty.&nbsp\; I want you to answer the following:</p><ul><li>What strategies 
+ would you take to explain and communicate how technical digital forensics 
+ strategies work to non technical judges and juries?<ul><li>provide a hypot
+ hetical example</li></ul></li><li>How would you explain that you digital f
+ orensics software is trustworthy and not tampered with?</li><li>How would 
+ you communicate to a lawyer team that you are 100% confident your digital 
+ forensics analysis is correct?</li><li>How important in your opinion is co
+ nfidence when communicating digital forensics?&nbsp\; explain</li></ul><p>
+ This final discussion is worth more points that most weeks\, the number of
+  paragraphs I expect is between 3-6.</p><p><span>2. Reply to 2 classmates'
+  posts. (Due Friday December 10 midnight)</span><span>&nbsp\;</span><stron
+ g>10pts</strong></p><p>&nbsp\;</p><p><em><span>Rubric</span></em></p><p>To
+  receive full credit\, your post and reply must be...</p><ul><li>At least 
+ three sentences in length (two paragraphs of at least 3 sentences each for
+  the initial post)</li><li>Written in complete\, grammatically correct sen
+ tences</li><li>Free from spelling errors</li><li>An intelligent response</
+ li></ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T140700Z
+UID:event-assignment-737149
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab 16-1: Ethics for the Expert Witness [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=12&year=2025#assignment_737149
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T202900Z
+UID:event-assignment-736868
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Linux Chapter Twelve Discussion Post [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_736868
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211700Z
+UID:event-assignment-730815
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 12-1: Configuring Networking in Linux [25/
+ FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730815
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211700Z
+UID:event-assignment-730816
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 12-2: Name Resolution Concepts and Tools [
+ 25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730816
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211700Z
+UID:event-assignment-730817
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 12-3: Remote Connectivity Management [25/F
+ A CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730817
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211700Z
+UID:event-assignment-730818
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 12-4: Remote Access Tools [25/FA CSC-121-O
+ L01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730818
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250728T192300Z
+UID:event-assignment-737135
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Module 16 Discussion [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=12&year=2025#assignment_737135
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T140700Z
+UID:event-assignment-737162
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Module 16 Quiz [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=12&year=2025#assignment_737162
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211700Z
+UID:event-assignment-730854
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz: Chapter 12 Network Configuration [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730854
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211800Z
+UID:event-assignment-730867
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Simulation 12-1: Configure IP Routing [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730867
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T192600Z
+UID:event-assignment-786194
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:14-1: Registry Editor [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=12&year=2025#assignment_786194
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T192600Z
+UID:event-assignment-786195
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:14-1: Troubleshooting Windows Operating Systems [25/FA NET-790-OL01
+ ]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=12&year=2025#assignment_786195
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T192800Z
+UID:event-assignment-786197
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:15-1: Backup and Recovery Implementation [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=12&year=2025#assignment_786197
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T192700Z
+UID:event-assignment-786196
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+DESCRIPTION:Take notes as you are completing the lab. Remember\, you can co
+ mplete the lab as many times as you want to get the grade you want. 
+SEQUENCE:0
+SUMMARY:15-1: Startup Repair [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=12&year=2025#assignment_786196
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Take notes as you are completing the 
+ lab. Remember\, you can complete the lab as many times as you want to get 
+ the grade you want.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T192800Z
+UID:event-assignment-786200
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+DESCRIPTION:Complete the Chapter 14 & 15 quiz. There are 5 questions from e
+ ach chapter. You get 2 attempts on the quiz and the highest grade will be 
+ recorded. \n\nLooking up the answers is cheating. Read through the resour
+ ces in the module before taking it. 
+SEQUENCE:0
+SUMMARY:Chapter 14 & 15 Quiz [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=12&year=2025#assignment_786200
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Complete the Chapter 14 &amp\; 15 qui
+ z. There are 5 questions from each chapter. You get 2 attempts on the quiz
+  and the highest grade will be recorded.&nbsp\;</span></p>\n<p><span>Looki
+ ng up the answers is cheating. Read through the resources in the module be
+ fore taking it.&nbsp\;</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250821T020500Z
+UID:event-assignment-768762
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 14 Discussion [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=12&year=2025#assignment_768762
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250821T020500Z
+UID:event-assignment-768765
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 14 Quiz [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=12&year=2025#assignment_768765
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250821T020500Z
+UID:event-assignment-768763
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 14 Writing Assignment [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=12&year=2025#assignment_768763
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251008T003600Z
+UID:event-assignment-741551
+DTSTART;VALUE=DATE;VALUE=DATE:20251207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Module 16 Essay [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=12&year=2025#assignment_741551
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231800Z
+UID:event-assignment-727854
+DTSTART;VALUE=DATE;VALUE=DATE:20251208
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 15-1: Asset Management Techniques [25/FA C
+ IS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=12&year=2025#assignment_727854
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231800Z
+UID:event-assignment-727879
+DTSTART;VALUE=DATE;VALUE=DATE:20251208
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz: Module 15 Information Security Management [25/FA CIS-616-OL01
+ ]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=12&year=2025#assignment_727879
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231800Z
+UID:event-assignment-727892
+DTSTART;VALUE=DATE;VALUE=DATE:20251208
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 15-1: Asset Management [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=12&year=2025#assignment_727892
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T231800Z
+UID:event-assignment-727893
+DTSTART;VALUE=DATE;VALUE=DATE:20251208
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Simulation 15-2: Managing Risk [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=12&year=2025#assignment_727893
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250928T050000Z
+UID:event-assignment-727829
+DTSTART;VALUE=DATE;VALUE=DATE:20251208
+CLASS:PUBLIC
+DESCRIPTION:---------------------------------------------------------------
+ -------------------------------------------------------------------\nAll d
+ iscussions must be submitted every Sunday at 6:00 p.m. (this includes orig
+ inal postings and replies) for attendance purposes.\n---------------------
+ --------------------------------------------------------------------------
+ -----------------------------------\n\nDiscussion posts should be a paragr
+ aph or more and should fully answer the questions provided. Please make yo
+ ur initial post by Friday and respond to at least 2 other students by Sund
+ ay.\n\nThis week's questions:\n\n* Discussion: Data Privacy. Duration: 10 
+ minutes.\n\n* Protecting Data\n\n* What is your involvement or awareness o
+ f data storage\, retention\, and destruction activities? What types of dat
+ a were involved? What forms of storage? Were there formal retention guidel
+ ines or regulations? What method of destruction was used? Did they believe
+  it was effectively destroying the records and data?\n\nPosting Criteria a
+ nd Grading \n\nInitial discussion post (8 sentences)\n\n60% of overall cr
+ edit\n\n2 replies to two other student (5 sentences each) 30% each\n\n30% 
+ of overall credit\n\nGrammar/spelling\n\n10% of overall credit\n\n 
+SEQUENCE:0
+SUMMARY:Discussion 15 [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=12&year=2025#assignment_727829
+X-ALT-DESC;FMTTYPE=text/html:<h2 class="fOyUs_bGBk"><span><strong>All discu
+ ssions must be submitted every Sunday at 6:00 p.m. (this includes original
+  postings and replies) for attendance purposes.</strong></span></h2>\n<div
+  class="discussion-section message_wrapper">\n<div class="message user_con
+ tent enhanced" data-bind="message">\n<p>Discussion posts should be a parag
+ raph or more and should fully answer the questions provided. Please make y
+ our initial post by Friday and respond to at least 2 other students by Sun
+ day.</p>\n<p><strong>This week's questions:</strong></p>\n<ol>\n<li>Discus
+ sion: Data Privacy. Duration: 10 minutes.\n<ol>\n<li>Protecting Data</li>\
+ n<li>What is your involvement or awareness of data storage\, retention\, a
+ nd destruction activities? What types of data were involved? What forms of
+  storage? Were there formal retention guidelines or regulations? What meth
+ od of destruction was used? Did they believe it was effectively destroying
+  the records and data?</li>\n</ol>\n</li>\n</ol>\n<p><strong>Posting Crite
+ ria and Grading&nbsp\;</strong></p>\n<table border="1">\n<tbody>\n<tr>\n<t
+ d>Initial discussion post (8 sentences)</td>\n<td>60% of overall credit</t
+ d>\n</tr>\n<tr>\n<td>2 replies to two other student (5 sentences each) 30%
+  each</td>\n<td>30% of overall credit</td>\n</tr>\n<tr>\n<td>Grammar/spell
+ ing</td>\n<td>10% of overall credit</td>\n</tr>\n</tbody>\n</table>\n<p>&n
+ bsp\;</p>\n</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T194800Z
+UID:event-assignment-786202
+DTSTART;VALUE=DATE;VALUE=DATE:20251210
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Exam 3 [25/FA NET-790-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_261
+ 26&month=12&year=2025#assignment_786202
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251026T050000Z
+UID:event-assignment-727827
+DTSTART;VALUE=DATE;VALUE=DATE:20251211
+CLASS:PUBLIC
+DESCRIPTION:Details about the Exam 2 (Final)\n\n* Covers Chapters 9 - 15\n\
+ n* 50 Questions (Questions may be in multiple-choice/ true false/ fill-in-
+ the-blank format)\n\n* Possible grade: 100\n\n* Time limit: 70 minutes\n\n
+ * Number of attempts: 2\n\nGood luck to all!
+SEQUENCE:0
+SUMMARY:Exam 2 (Final) [25/FA CIS-616-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 37&month=12&year=2025#assignment_727827
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><u>Details about the Exam 2 (Final)
+ </u></strong></p>\n<ul>\n<li>Covers Chapters 9 - 15</li>\n<li>50 Questions
+  (Questions may be in multiple-choice/ true false/ fill-in-the-blank forma
+ t)</li>\n<li>Possible grade: 100</li>\n<li>Time limit: 70 minutes</li>\n<l
+ i>Number of attempts: 2</li>\n</ul>\n<p>Good luck to all!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251116T204000Z
+UID:event-assignment-727223
+DTSTART;VALUE=DATE;VALUE=DATE:20251212
+CLASS:PUBLIC
+DESCRIPTION:Class\,\n\nWelcome to your final research assignment:\n\n* I wa
+ nt you to research an article not older than 5 years explaining digital ev
+ idence collection best practices or something closely related to those key
+ words. \n\n* You are to read and then summarize the article with a minimu
+ m of 2 complete pages and cite your sources and explain the significance o
+ f the article as it relates to proper evidence collection.  (just to clar
+ ify\, I'm looking for something between 2-4 pages that adequately describe
+ s proper evidence collection).\n\n* Please make sure you touch on the foll
+ owing idea's\n\n* What kind of digital evidence collection practices exist
+ ?\n\n* what kind of software support this?\n\n* is the software free or pa
+ id for\, show different examples of this software.\n\n* Explain what each 
+ time of software is\, the brand and what it could be used for\n\n* Explain
+  why digital forensics is important and why would best practices need to b
+ e followed?\n\n* feel free to support your claim with an article that disc
+ usses digital forensics or an example of its use\n\n* What kind of IT jobs
+  are associated with digital forensics and is it something that interests 
+ you?  Explain\n\nIf any of this doesn't make sense please reach out to me
+  as soon as possible\, please don't wait until the last minute to ask for 
+ help as well as please don't wait until the last minute to begin your rese
+ arch paper.\n\nThis final research paper is worth 3 times the typical week
+ ly assignment.\n\nThis is due no later than 12/13 by 11:59PM\, please subm
+ it via .doc/.docx word format
+SEQUENCE:0
+SUMMARY:Final Assignment [25/FA CIS-617-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 50&month=12&year=2025#assignment_727223
+X-ALT-DESC;FMTTYPE=text/html:<p>Class\,</p>\n<p>Welcome to your final resea
+ rch assignment:</p>\n<ul>\n<li>I want you to research an article not older
+  than 5 years explaining <span style="text-decoration: underline\;">digita
+ l evidence collection best practices</span> or something closely related t
+ o those keywords.&nbsp\;</li>\n<li>You are to read and then summarize the 
+ article with a minimum of 2 complete pages and cite your sources and expla
+ in the significance of the article as it relates to proper evidence collec
+ tion.&nbsp\; (just to clarify\, I'm looking for something between 2-4 page
+ s that adequately describes proper evidence collection).</li>\n<li>Please 
+ make sure you touch on the following idea's\n<ul>\n<li>What kind of digita
+ l evidence collection practices exist?\n<ul>\n<li>what kind of software su
+ pport this?</li>\n<li>is the software free or paid for\, show different ex
+ amples of this software.</li>\n<li>Explain what each time of software is\,
+  the brand and what it could be used for</li>\n</ul>\n</li>\n<li>Explain w
+ hy digital forensics is important and why would best practices need to be 
+ followed?\n<ul>\n<li>feel free to support your claim with an article that 
+ discusses digital forensics or an example of its use</li>\n</ul>\n</li>\n<
+ li>What kind of IT jobs are associated with digital forensics and is it so
+ mething that interests you?&nbsp\; Explain</li>\n</ul>\n</li>\n</ul>\n<p>I
+ f any of this doesn't make sense please reach out to me as soon as possibl
+ e\, please don't wait until the last minute to ask for help as well as ple
+ ase don't wait until the last minute to begin your research paper.</p>\n<p
+ >This final research paper is worth 3 times the typical weekly assignment.
+ </p>\n<p>This is due no later than 12/13 by 11:59PM\, please submit via .d
+ oc/.docx word format</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T141000Z
+UID:event-assignment-737141
+DTSTART;VALUE=DATE;VALUE=DATE:20251212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Final Capstone [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=12&year=2025#assignment_737141
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250728T191600Z
+UID:event-assignment-737139
+DTSTART;VALUE=DATE;VALUE=DATE:20251212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Finals Week Discussion [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=12&year=2025#assignment_737139
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T203000Z
+UID:event-assignment-736869
+DTSTART;VALUE=DATE;VALUE=DATE:20251212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Linux Chapter Fourteen Discussion Post [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_736869
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211800Z
+UID:event-assignment-730813
+DTSTART;VALUE=DATE;VALUE=DATE:20251212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Linux Exam [25/FA CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730813
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211700Z
+UID:event-assignment-730819
+DTSTART;VALUE=DATE;VALUE=DATE:20251212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 14-2: Securing Linux Devices [25/FA CSC-12
+ 1-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730819
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211700Z
+UID:event-assignment-730820
+DTSTART;VALUE=DATE;VALUE=DATE:20251212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Live Virtual Machine Lab 14-3: Configuring Linux Firewalls [25/FA C
+ SC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730820
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211700Z
+UID:event-assignment-730855
+DTSTART;VALUE=DATE;VALUE=DATE:20251212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz: Chapter 14 Security\, Troubleshooting\, and Performance [25/F
+ A CSC-121-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730855
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T211800Z
+UID:event-assignment-730868
+DTSTART;VALUE=DATE;VALUE=DATE:20251212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Simulation 14-1: Configuring Privilege Escalation [25/FA CSC-121-OL
+ 01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 49&month=12&year=2025#assignment_730868
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250730T003100Z
+UID:event-assignment-740816
+DTSTART;VALUE=DATE;VALUE=DATE:20251212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Final Exam - Modules 9-16 [25/FA CIS-602-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 44&month=12&year=2025#assignment_740816
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250916T185500Z
+UID:event-assignment-768766
+DTSTART;VALUE=DATE:20251212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Final Writing Assignment [25/FA CIS-601-OL01]
+URL;VALUE=URI:https://classes.iwcc.edu/calendar?include_contexts=course_239
+ 31&month=12&year=2025#assignment_768766
+END:VEVENT
+END:VCALENDAR`;
+
+// Expose feed globally so other scripts (class view) can consume it.
+if (typeof window !== "undefined") {
+  window.RAW_ICS = RAW_ICS;
+}
+
+
+function unfoldICSLines(text) {
+  const rawLines = text.split(/\r?\n/);
+  const lines = [];
+  for (const raw of rawLines) {
+    if (!raw) continue;
+    if (/^[ \t]/.test(raw) && lines.length) {
+      // Continuation: append without the leading space
+      lines[lines.length - 1] += raw.slice(1);
+    } else {
+      lines.push(raw);
+    }
+  }
+  return lines;
+}
+
+// Parse a date-only value like 20251024 into a JS Date
+function parseICSDate(val) {
+  const m = val.match(/^(\d{4})(\d{2})(\d{2})$/);
+  if (!m) return null;
+  const [_, Y, M, D] = m;
+  // Interpret as local midnight of that date
+  return new Date(Number(Y), Number(M) - 1, Number(D), 0, 0, 0, 0);
+}
+function parseICS(icsText) {
+  const lines = unfoldICSLines(icsText);
+  const events = [];
+  let current = null;
+
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (!line) continue;
+
+    if (line === 'BEGIN:VEVENT') {
+      current = {};
+      continue;
+    }
+
+    if (line === 'END:VEVENT') {
+      if (current && current.start && current.summary) {
+        events.push(current);
+      }
+      current = null;
+      continue;
+    }
+
+    if (!current) continue;
+
+    if (line.startsWith('DTSTART')) {
+      // e.g. "DTSTART;VALUE=DATE;VALUE=DATE:20251024"
+      const colonIndex = line.indexOf(':');
+      if (colonIndex !== -1) {
+        const value = line.slice(colonIndex + 1);
+        current.start = parseICSDate(value);
+      }
+    } else if (line.startsWith('SUMMARY')) {
+      // e.g. "SUMMARY:Live Virtual Machine Lab 8-1: ... "
+      const colonIndex = line.indexOf(':');
+      if (colonIndex !== -1) {
+        current.summary = line.slice(colonIndex + 1);
+      }
+    }
+
+    // You COULD parse DESCRIPTION/URL similarly if you want later.
+  }
+
+  return events;
+}
+function importICSFeed() {
+  const events = parseICS(RAW_ICS);
+
+  const notes = events
+    .filter(ev => ev.start instanceof Date && !isNaN(ev.start))
+    .map(ev => ({
+      when: ev.start.getTime(),  // timestamp in ms
+      note: ev.summary           // assignment title
+    }));
+
+  localStorage.setItem("planner-future-notes", JSON.stringify(notes));
+  // also write to planner-calendar-events so class view can use them
+  try {
+    const mapped = events.map(ev=>({
+      start: ev.start.toISOString(),
+      end: ev.start.toISOString(),
+      allDay: true,
+      title: ev.summary,
+      description: "",
+      url: ""
+    }));
+    localStorage.setItem("planner-calendar-events", JSON.stringify(mapped));
+  } catch(e) {
+    console.error("Failed to write planner-calendar-events from ICS feed", e);
+  }
+  console.log("Saved future notes:", notes);
+}
+
+function loadFutureNotes() {
+  const raw = localStorage.getItem("planner-future-notes");
+  if (!raw) return [];
+  try {
+    return JSON.parse(raw);
+  } catch (e) {
+    console.error("Failed to parse planner-future-notes:", e);
+    return [];
+  }
+}
+if (typeof window !== "undefined") {
+  window.loadFutureNotes = loadFutureNotes;
+}
+document.addEventListener("DOMContentLoaded", () => {
+  const btn = document.getElementById("import-ics-btn");
+  // auto-import once on load so other tabs (Class view) see events immediately
+  importICSFeed();
+  if (btn) {
+    btn.addEventListener("click", () => {
+      importICSFeed();  // parse + save assignments
+
+      // call your existing UI renderers if they exist
+      if (typeof renderFutureBanner === "function") {
+        renderFutureBanner();
+      }
+      if (typeof renderDangerZone === "function") {
+        renderDangerZone();
+      }
+    });
+  }
+});
